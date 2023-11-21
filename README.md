@@ -10,4 +10,4 @@ Vandega Arozan Musholine - 19623231
 ### Works
 Laporan - https://docs.google.com/document/d/1X5Wql92G-cbY4LToPejxh3MlNZD2Hz7j1jPHodg92AE/edit <br>
 PPT - https://www.canva.com/design/DAF0yVJzqXw/5_EZixtFyYPEcwwsJyWWSw/edit?ui=eyJHIjp7fX0 <br>
-Data -
+Data - https://github.com/GWRayzr/Data_Analysis_tubes2/tree/main/Files
