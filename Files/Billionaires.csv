@@ -107,7 +107,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 106,16.0,Michael Platt,55.0,Switzerland,Geneva,Hedge funds,Finance & Investments,True,M,1968.0,3.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,8.574832,46.818188,8.227512
 107,15.9,Pang Kang,67.0,China,Foshan,Soy sauce,Food & Beverage,True,M,1956.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,1397.715,35.86166,104.195397
 108,15.8,Karl Albrecht Jr. & family,,Germany,,Supermarkets,Fashion & Retail,False,M,,,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,83.132799,51.165691,10.451526
-108,15.8,Beate Heister,,,,Supermarkets,Fashion & Retail,False,F,,,,,,,,,,
+108,15.8,Beate Heister,,Germany,,Supermarkets,Fashion & Retail,False,F,,,,,,,,,,
 108,15.8,Jorge Paulo Lemann & family,83.0,Switzerland,Zurich,Beer,Food & Beverage,True,M,1939.0,8.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,8.574832,46.818188,8.227512
 108,15.8,Peter Woo,76.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1946.0,9.0,,,,,,,,
 112,15.6,Dilip Shanghvi,67.0,India,Mumbai,Pharmaceuticals,Healthcare,True,M,1955.0,10.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,1366.417754,20.593684,78.96288
