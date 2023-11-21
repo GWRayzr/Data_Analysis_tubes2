@@ -31,7 +31,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 30,38.9,Giovanni Ferrero,58.0,Belgium,Brussels,"Nutella, chocolates",Food & Beverage,False,M,1964.0,9.0,117.11,"$529,606,710,418 ",79.7,103.9,81.6,55.4,11.484055,50.503887,4.469936
 31,38.3,Jacqueline Mars,83.0,United States,The Plains,"Candy, pet food",Food & Beverage,False,F,1939.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 31,38.3,John Mars,87.0,United States,Jackson,"Candy, pet food",Food & Beverage,False,M,1935.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-33,38.0,Li Ka-shing,94.0,Hong Kong,Hong Kong,Diversified,Diversified,True,M,1928.0,6.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+33,38.0,Li Ka-shing,94.0,Hong Kong,Hong Kong,Diversified,Diversified,True,M,1928.0,6.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 34,35.3,Ma Huateng,51.0,China,Shenzhen,Internet media,Technology,True,M,1971.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 35,35.0,Miriam Adelson & family,77.0,United States,Las Vegas,Casinos,Gambling & Casinos,False,F,1945.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 35,35.0,Ken Griffin,54.0,United States,Miami,Hedge funds,Finance & Investments,True,M,1968.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -45,7 +45,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 43,31.2,Rafaela Aponte-Diamant,78.0,Switzerland,Geneva,Shipping,Logistics,True,F,1945.0,3.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 45,30.2,Colin Zheng Huang,43.0,China,Shanghai,E-commerce,Technology,True,M,1980.0,2.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 46,29.7,Reinhold Wuerth & family,87.0,Germany,Kuenzelsau,Fasteners,Manufacturing,True,M,1935.0,4.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
-47,29.5,Lee Shau Kee,95.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1928.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+47,29.5,Lee Shau Kee,95.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1928.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 48,28.5,Jeff Yass,64.0,United States,Haverford,"Trading, investments",Finance & Investments,True,M,1958.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 49,28.1,Jim Simons,84.0,United States,East Setauket,Hedge funds,Finance & Investments,True,M,1938.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 50,27.8,Stephen Schwarzman,76.0,United States,New York,Investments,Finance & Investments,True,M,1947.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -107,9 +107,9 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 106,16.0,Michael Platt,55.0,Switzerland,Geneva,Hedge funds,Finance & Investments,True,M,1968.0,3.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 107,15.9,Pang Kang,67.0,China,Foshan,Soy sauce,Food & Beverage,True,M,1956.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 108,15.8,Karl Albrecht Jr. & family,,Germany,,Supermarkets,Fashion & Retail,False,M,,,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
-108,15.8,Beate Heister,,Germany,,Supermarkets,Fashion & Retail,False,F,,,112.85,"$3,845,630,030,824",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
+108,15.8,Beate Heister,,,,Supermarkets,Fashion & Retail,False,F,,,,"$3,845,630,030,824",,,,,,,
 108,15.8,Jorge Paulo Lemann & family,83.0,Switzerland,Zurich,Beer,Food & Beverage,True,M,1939.0,8.0,99.55,"$3,845,630,030,824",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
-108,15.8,Peter Woo,76.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1946.0,9.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+108,15.8,Peter Woo,76.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1946.0,9.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 112,15.6,Dilip Shanghvi,67.0,India,Mumbai,Pharmaceuticals,Healthcare,True,M,1955.0,10.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 113,15.5,Robert Pera,45.0,United States,San Jose,Wireless networking,Technology,True,M,1978.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 114,15.3,Radhakishan Damani,68.0,India,Mumbai,"Retail, investments",Fashion & Retail,True,M,1955.0,1.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
@@ -124,16 +124,16 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 123,14.3,Goh Cheng Liang,95.0,Singapore,Singapore,Paints,Manufacturing,True,M,1927.0,6.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
 124,14.2,Kumar Birla,55.0,India,Mumbai,Commodities,Diversified,False,M,1967.0,6.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 124,14.2,Aliko Dangote,65.0,Nigeria,Lagos,"Cement, sugar",Manufacturing,True,M,1957.0,4.0,267.51,"$448,120,428,859 ",10.2,84.7,54.3,34.8,200.963599,9.081999,8.675277
-126,14.1,Kwong Siu-hing,93.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,F,1929.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+126,14.1,Kwong Siu-hing,93.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,F,1929.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 127,14.0,Idan Ofer,67.0,United Kingdom,London,Shipping,Diversified,False,M,1955.0,10.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 128,13.9,Chen Bang,57.0,China,Changsha,Hospitals,Healthcare,True,M,1965.0,9.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-128,13.9,Lui Che Woo,94.0,Hong Kong,Hong Kong,Casinos/hotels,Gambling & Casinos,True,M,1929.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+128,13.9,Lui Che Woo,94.0,Hong Kong,Hong Kong,Casinos/hotels,Gambling & Casinos,True,M,1929.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 130,13.7,John Fredriksen,78.0,United Kingdom,London,Shipping,Logistics,True,M,1945.0,2.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 130,13.7,Diane Hendricks,76.0,United States,Afton,Building supplies,Construction & Engineering,True,F,1947.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 130,13.7,Jan Koum,47.0,United States,Atherton,WhatsApp,Technology,True,M,1976.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 133,13.3,Jerry Jones,80.0,United States,Dallas,Dallas Cowboys,Sports,True,M,1942.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 133,13.3,George Kaiser,80.0,United States,Tulsa,"Oil & gas, banking",Energy,False,M,1942.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-133,13.3,Joseph Lau,71.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1951.0,7.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+133,13.3,Joseph Lau,71.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1951.0,7.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 136,13.2,Lu Xiangyang,60.0,China,Guangzhou,"Automobiles, batteries",Automotive,True,M,1962.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 137,13.1,Harry Triguboff,90.0,Australia,Sydney,Real estate,Real Estate,True,M,1933.0,3.0,119.8,"$1,392,680,589,329 ",113.1,100.3,82.7,47.4,25.766605,-25.274398,133.775136
 138,12.9,Uday Kotak,64.0,India,Mumbai,Banking,Finance & Investments,True,M,1959.0,3.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
@@ -144,7 +144,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 142,12.2,Jiang Rensheng & family,69.0,China,Chongqing,Vaccines,Healthcare,True,M,1953.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 144,12.1,Shahid Khan,72.0,United States,Naples,Auto parts,Automotive,True,M,1950.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 145,12.0,Laurene Powell Jobs & family,59.0,United States,Palo Alto,"Apple, Disney",Technology,False,F,1963.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-146,11.8,Robert Kuok,99.0,Hong Kong,Hong Kong,"Palm oil, shipping, property",Diversified,True,M,1923.0,10.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+146,11.8,Robert Kuok,99.0,Hong Kong,Hong Kong,"Palm oil, shipping, property",Diversified,True,M,1923.0,10.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 147,11.6,Stephen Ross,82.0,United States,New York,Real estate,Real Estate,True,M,1940.0,5.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 148,11.5,Pavel Durov,38.0,United Arab Emirates,Dubai,Messaging app,Technology,True,M,1984.0,10.0,114.52,"$421,142,267,938 ",36.8,108.4,77.8,15.9,9.770529,23.424076,53.847818
 148,11.5,Andreas Struengmann & family,73.0,Germany,Tegernsee,Pharmaceuticals,Healthcare,True,M,1950.0,2.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
@@ -157,7 +157,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 153,11.3,Mikhail Prokhorov,57.0,Switzerland,Frauenfeld,Investments,Finance & Investments,True,M,1965.0,5.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 157,11.1,Giorgio Armani,88.0,Italy,Milan,Luxury goods,Fashion & Retail,True,M,1934.0,7.0,110.62,"$2,001,244,392,042 ",61.9,101.9,82.9,59.1,60.297396,41.87194,12.56738
 157,11.1,Johann Rupert & family,72.0,South Africa,Cape Town,Luxury goods,Fashion & Retail,False,M,1950.0,6.0,158.93,"$351,431,649,241 ",22.4,100.9,63.9,29.2,58.55827,-30.559482,22.937506
-159,11.0,Gong Hongjia & family,58.0,Hong Kong,Hong Kong,Video surveillance,Finance & Investments,True,M,1965.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+159,11.0,Gong Hongjia & family,58.0,Hong Kong,Hong Kong,Video surveillance,Finance & Investments,True,M,1965.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 159,11.0,Zhang Zhidong,51.0,China,Shenzhen,Internet media,Technology,True,M,1972.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 161,10.9,Philip Anschutz,83.0,United States,Denver,"Energy, sports, entertainment",Finance & Investments,False,M,1939.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 161,10.9,Judy Love & family,85.0,United States,Oklahoma City,Gas stations,Fashion & Retail,True,F,1937.0,6.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -247,7 +247,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 246,8.3,John Morris,75.0,United States,Springfield,Sporting goods retail,Fashion & Retail,True,M,1948.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 246,8.3,Stefano Pessina,81.0,Monaco,Monte Carlo,Drugstores,Fashion & Retail,False,M,1941.0,6.0,,"$7,184,844,193 ",,,,,0.038964,43.7384176,7.4246158
 246,8.3,Francine von Finck & family,,Switzerland,Thurgau,Investments,Finance & Investments,False,F,,,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
-249,8.2,Francis Choi,75.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1947.0,9.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+249,8.2,Francis Choi,75.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1947.0,9.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 249,8.2,German Khan,61.0,Russia,Moscow,"Oil, banking, telecom",Energy,True,M,1961.0,10.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
 249,8.2,Abdulsamad Rabiu,62.0,Nigeria,Lagos,"Cement, sugar",Diversified,False,M,1960.0,8.0,267.51,"$448,120,428,859 ",10.2,84.7,54.3,34.8,200.963599,9.081999,8.675277
 249,8.2,George Roberts,79.0,United States,Atherton,Private equity,Finance & Investments,True,M,1943.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -276,10 +276,10 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 268,7.9,Georg Stumpf,50.0,Austria,Vienna,"Real estate, construction",Diversified,True,M,1972.0,9.0,118.06,"$446,314,739,528 ",85.1,103.1,81.6,51.4,8.877067,47.516231,14.550072
 276,7.8,Rocco Commisso,73.0,United States,Saddle River,Telecom,Telecom,True,M,1949.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 276,7.8,Li Shuirong & family,66.0,China,Hangzhou,Petrochemicals,Manufacturing,True,M,1956.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-276,7.8,Lin Shu-hong,94.0,Taiwan,Taipei,Petrochemicals,Manufacturing,True,M,1928.0,8.0,,,,,,,,,
+276,7.8,Lin Shu-hong,94.0,Taiwan,Taipei,Petrochemicals,Manufacturing,True,M,1928.0,8.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 276,7.8,Qi Shi & family,53.0,China,Shanghai,Financial information,Technology,True,M,1970.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 276,7.8,Yao Liangsong,58.0,China,Guangzhou,Furniture,Manufacturing,True,M,1964.0,8.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-276,7.8,Zhang Congyuan,75.0,Taiwan,Taoyuan,Shoes,Fashion & Retail,True,M,1948.0,1.0,,,,,,,,,
+276,7.8,Zhang Congyuan,75.0,Taiwan,Taoyuan,Shoes,Fashion & Retail,True,M,1948.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 282,7.7,Jean-Michel Besnier,55.0,France,Laval,Cheese,Food & Beverage,False,M,1967.0,6.0,110.05,"$2,715,518,274,227 ",65.6,102.5,82.5,60.7,67.059887,46.227638,2.213749
 282,7.7,Marie Besnier Beauvalot,42.0,France,Laval,Cheese,Food & Beverage,False,F,1980.0,7.0,110.05,"$2,715,518,274,227 ",65.6,102.5,82.5,60.7,67.059887,46.227638,2.213749
 282,7.7,David Geffen,80.0,United States,Beverly Hills,"Movies, record labels",Media & Entertainment,True,M,1943.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -295,7 +295,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 290,7.6,Philip Ng,64.0,Singapore,Singapore,Real Estate,Real Estate,False,M,1959.0,1.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
 290,7.6,John Reece,66.0,United Kingdom,London,Chemicals,Manufacturing,True,M,1957.0,3.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 290,7.6,Leonard Stern,85.0,United States,New York,Real estate,Real Estate,False,M,1938.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-290,7.6,Joseph Tsai,59.0,Hong Kong,Hong Kong,E-commerce,Technology,True,M,1964.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+290,7.6,Joseph Tsai,59.0,Hong Kong,Hong Kong,E-commerce,Technology,True,M,1964.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 290,7.6,Zhong Huijuan,62.0,China,Shanghai,Pharmaceuticals,Healthcare,True,F,1961.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 299,7.5,Arthur Blank,80.0,United States,Atlanta,Home Depot,Sports,True,M,1942.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 299,7.5,Charles Butt,85.0,United States,San Antonio,Supermarkets,Fashion & Retail,False,M,1938.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -316,7 +316,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 312,7.3,Enrique Razon Jr.,63.0,Philippines,Manila,Ports,Logistics,False,M,1960.0,3.0,129.61,"$376,795,508,680 ",35.5,107.5,71.1,43.1,108.116615,12.879721,121.774017
 312,7.3,Wang Laichun,55.0,China,Shenzhen,Electronics components,Technology,True,F,1967.0,6.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 317,7.2,Arthur Dantchik,65.0,United States,Gladwyne,"Trading, investments",Finance & Investments,True,M,1957.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-317,7.2,Terry Gou,72.0,Taiwan,Taipei,Electronics,Technology,True,M,1950.0,10.0,,,,,,,,,
+317,7.2,Terry Gou,72.0,Taiwan,Taipei,Electronics,Technology,True,M,1950.0,10.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 317,7.2,Jeff Greene,68.0,United States,Palm Beach,"Real estate, investments",Real Estate,True,M,1954.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 317,7.2,Don Hankey,79.0,United States,Malibu,Auto loans,Finance & Investments,True,M,1943.0,6.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 317,7.2,Richard Kinder,78.0,United States,Houston,Pipelines,Energy,True,M,1944.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -336,7 +336,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 332,7.0,Jack Dangermond,77.0,United States,Redlands,Mapping software,Technology,True,M,1945.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 332,7.0,Ashwin Dani & family,80.0,India,Mumbai,Paints,Manufacturing,False,M,1942.0,10.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 332,7.0,Ralph Lauren,83.0,United States,New York,Apparel,Fashion & Retail,True,M,1939.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-332,7.0,Law Kar Po,74.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1948.0,8.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+332,7.0,Law Kar Po,74.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1948.0,8.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 332,7.0,Rohiqa Cyrus Mistry,55.0,India,Mumbai,Diversified,Diversified,False,F,1967.0,6.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 332,7.0,Shapoor Mistry,58.0,India,Mumbai,Diversified,Diversified,False,M,1964.0,9.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 332,7.0,J. Christopher Reyes,69.0,United States,Hobe Sound,Food distribution,Food & Beverage,True,M,1953.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -420,9 +420,9 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 418,6.1,Tom Gores,58.0,United States,Beverly Hills,Private equity,Finance & Investments,True,M,1964.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 418,6.1,Michael Herz,79.0,Germany,Hamburg,Coffee,Fashion & Retail,False,M,1943.0,9.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 418,6.1,Wolfgang Herz,72.0,Germany,Hamburg,Coffee,Fashion & Retail,False,M,1951.0,1.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
-418,6.1,Michael Kadoorie,81.0,Hong Kong,Hong Kong,"Hotels, energy",Energy,False,M,1941.0,7.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+418,6.1,Michael Kadoorie,81.0,Hong Kong,Hong Kong,"Hotels, energy",Energy,False,M,1941.0,7.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 418,6.1,Sunil Mittal,65.0,,,Telecom,Telecom,True,M,1957.0,10.0,,,,,,,,,
-418,6.1,Zhou Qunfei,53.0,Hong Kong,Hong Kong,Smartphone screens,Technology,True,F,,,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+418,6.1,Zhou Qunfei,53.0,Hong Kong,Hong Kong,Smartphone screens,Technology,True,F,,,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 425,6.0,Alexander Abramov,64.0,Russia,Moscow,"Steel, mining",Metals & Mining,True,M,1959.0,2.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
 425,6.0,Rene Benko,46.0,Austria,,"Real estate, retail",Real Estate,True,M,1977.0,3.0,118.06,"$446,314,739,528 ",85.1,103.1,81.6,51.4,8.877067,47.516231,14.550072
 425,6.0,Neil Bluhm,85.0,United States,Chicago,Real estate,Real Estate,True,M,1938.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -449,7 +449,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 445,5.7,Arthur Irving,93.0,Canada,Saint John,Oil,Energy,False,M,1930.0,1.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
 445,5.7,Fredrik Lundberg,71.0,Sweden,Stockholm,"Real estate, investments",Real Estate,False,M,1951.0,8.0,110.51,"$530,832,908,738 ",67.0,126.6,82.5,49.1,10.285453,60.128161,18.643501
 445,5.7,Thomas Schmidheiny,77.0,Switzerland,Jona,Cement,Construction & Engineering,False,M,1945.0,12.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
-445,5.7,Helmut Sohmen,83.0,Hong Kong,Hong Kong,Shipping,Logistics,False,M,1939.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+445,5.7,Helmut Sohmen,83.0,Hong Kong,Hong Kong,Shipping,Logistics,False,M,1939.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 445,5.7,Daniel Ziff,51.0,United States,New York,Investments,Finance & Investments,False,M,1971.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 445,5.7,Dirk Ziff,59.0,United States,North Palm Beach,Investments,Finance & Investments,False,M,1964.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 445,5.7,Robert Ziff,56.0,United States,New York,Investments,Finance & Investments,False,M,1966.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -466,7 +466,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 455,5.6,Wu Jianshu,59.0,China,Ningbo,Auto parts,Automotive,True,M,1964.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 466,5.5,Micky Arison,73.0,United States,Bal Harbour,Carnival Cruises,Service,False,M,1949.0,6.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 466,5.5,James Chambers,65.0,United States,Palisades,"Media, automotive",Media & Entertainment,False,M,1957.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-466,5.5,Pierre Chen,66.0,Taiwan,Taipei,Electronics,Technology,True,M,1956.0,9.0,,,,,,,,,
+466,5.5,Pierre Chen,66.0,Taiwan,Taipei,Electronics,Technology,True,M,1956.0,9.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 466,5.5,John Collison,32.0,United States,San Francisco,Payments software,Technology,True,M,1990.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 466,5.5,Patrick Collison,34.0,United States,San Francisco,Payment software,Technology,True,M,1988.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 466,5.5,Archie Aldis Emmerson & family,93.0,United States,Redding,"Timberland, lumber mills",Manufacturing,True,M,1929.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -478,7 +478,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 466,5.5,Ludwig Merckle,58.0,Germany,Ulm,Pharmaceuticals,Finance & Investments,False,M,1965.0,1.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 466,5.5,Mitchell Rales,66.0,United States,Potomac,"Manufacturing, investments",Manufacturing,True,M,1956.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 466,5.5,Katharine Rayner,78.0,United States,East Hampton,"Media, automotive",Media & Entertainment,False,F,1945.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-466,5.5,Jean Salata,57.0,Hong Kong,Hong Kong,Finance,Finance & Investments,True,M,1965.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+466,5.5,Jean Salata,57.0,Hong Kong,Hong Kong,Finance,Finance & Investments,True,M,1965.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 466,5.5,Paul Singer,78.0,United States,New York,Hedge funds,Finance & Investments,True,M,1944.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 466,5.5,Sergio Stevanato & family,80.0,Italy,Venice,Medical packaging,Healthcare,True,M,1943.0,3.0,110.62,"$2,001,244,392,042 ",61.9,101.9,82.9,59.1,60.297396,41.87194,12.56738
 466,5.5,Margaretta Taylor,80.0,United States,Southampton,"Media, automotive",Media & Entertainment,False,F,1942.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -515,7 +515,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 511,5.2,Gao Dekang & family,71.0,China,Changshu,Apparel,Fashion & Retail,True,M,1952.0,2.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 511,5.2,Micky Jagtiani,71.0,United Arab Emirates,Dubai,Retail,Fashion & Retail,False,M,1951.0,9.0,114.52,"$421,142,267,938 ",36.8,108.4,77.8,15.9,9.770529,23.424076,53.847818
 511,5.2,Ananda Krishnan,85.0,Malaysia,Kuala Lumpur,"Telecoms, media, oil-services",Telecom,True,M,1938.0,4.0,121.46,"$364,701,517,788 ",45.1,105.3,76.0,38.7,32.447385,4.210484,101.975766
-511,5.2,Barry Lam,73.0,Taiwan,Taipei,Electronics,Technology,True,M,1949.0,4.0,,,,,,,,,
+511,5.2,Barry Lam,73.0,Taiwan,Taipei,Electronics,Technology,True,M,1949.0,4.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 511,5.2,"Robert Rich, Jr.",82.0,United States,Islamorada,Frozen foods,Food & Beverage,False,M,1941.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 511,5.2,Mark Scheinberg,49.0,United Kingdom,Isle of Man,Online gambling,Gambling & Casinos,True,M,1973.0,12.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 511,5.2,Charles Simonyi,74.0,United States,Medina,Microsoft,Technology,True,M,1948.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -528,7 +528,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 523,5.1,Sami Mnaymneh,61.0,United States,Miami Beach,Private equity,Finance & Investments,True,M,1961.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 523,5.1,Kjell Inge Rokke,64.0,Norway,Vettre,"Shipping, seafood",Logistics,True,M,1958.0,10.0,120.27,"$403,336,363,636 ",82.0,100.3,82.8,36.2,5.347896,60.472024,8.468946
 523,5.1,Tony Tamer,65.0,United States,New York,Private equity,Finance & Investments,True,M,1957.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-523,5.1,Tse Ping & family,71.0,Hong Kong,Hong Kong,Pharmaceuticals,Healthcare,True,M,1952.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+523,5.1,Tse Ping & family,71.0,Hong Kong,Hong Kong,Pharmaceuticals,Healthcare,True,M,1952.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 523,5.1,Romesh T. Wadhwani,75.0,United States,Palo Alto,Software,Technology,True,M,1947.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 523,5.1,Hansjoerg Wyss,88.0,United States,Wilson,Medical devices,Healthcare,True,M,1935.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 523,5.1,Denise York & family,72.0,United States,Youngstown,San Francisco 49ers,Sports,False,F,1950.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -576,11 +576,11 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 567,4.8,Thai Lee,64.0,United States,Austin,IT provider,Technology,True,F,1958.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 567,4.8,Winifred J. Marquart,63.0,United States,Virginia Beach,Cleaning products,Manufacturing,False,F,1959.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 567,4.8,Pankaj Patel,70.0,India,Ahmedabad,Pharmaceuticals,Healthcare,False,M,1953.0,3.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
-567,4.8,Horst Julius Pudwill,78.0,Hong Kong,Hong Kong,Manufacturing,Manufacturing,True,M,1944.0,10.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+567,4.8,Horst Julius Pudwill,78.0,Hong Kong,Hong Kong,Manufacturing,Manufacturing,True,M,1944.0,10.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 567,4.8,Yu Yong,62.0,China,Shanghai,Mining,Finance & Investments,True,M,1961.0,2.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 580,4.7,Maria Fernanda Amorim & family,88.0,Portugal,Grijo,"Energy, investments",Diversified,False,F,1935.0,1.0,110.62,"$237,686,075,635 ",63.9,106.2,81.3,39.8,10.269417,39.399872,-8.224454
 580,4.7,Gayle Benson,76.0,United States,New Orleans,New Orleans Saints,Sports,False,F,1947.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-580,4.7,Jason Chang,78.0,Taiwan,Taipei,Electronics,Technology,True,M,1944.0,5.0,,,,,,,,,
+580,4.7,Jason Chang,78.0,Taiwan,Taipei,Electronics,Technology,True,M,1944.0,5.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 580,4.7,Ali Erdemoglu,63.0,Turkey,Istanbul,Carpet,Manufacturing,True,M,1959.0,11.0,234.44,"$754,411,708,203 ",23.9,93.2,77.4,42.3,83.429615,38.963745,35.243322
 580,4.7,Andre Esteves,54.0,Brazil,Sao paulo,Banking,Finance & Investments,True,M,1968.0,7.0,167.4,"$1,839,758,040,766 ",51.3,115.4,75.7,65.1,212.559417,-14.235004,-51.92528
 580,4.7,Carlo Fidani,68.0,Canada,Toronto,Real estate,Real Estate,False,M,1955.0,1.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
@@ -595,11 +595,11 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 591,4.6,Jack Dorsey,46.0,United States,San Francisco,"Twitter, Square",Technology,True,M,1976.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 591,4.6,Fan Hongwei,56.0,China,Wujiang,Petrochemicals,Energy,True,F,1967.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 591,4.6,Vladimir Kim,62.0,Kazakhstan,Almaty,Mining,Metals & Mining,True,M,1960.0,10.0,182.75,"$180,161,741,180 ",61.7,104.4,73.2,28.4,18.51393,48.019573,66.923684
-591,4.6,"Andre Koo, Sr.",55.0,Taiwan,Taipei,Financial services,Finance & Investments,False,M,1967.0,5.0,,,,,,,,,
+591,4.6,"Andre Koo, Sr.",55.0,Taiwan,Taipei,Financial services,Finance & Investments,False,M,1967.0,5.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 591,4.6,Ronald Lauder,79.0,United States,New York,Estee Lauder,Fashion & Retail,False,M,1944.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 591,4.6,Li Chunan,54.0,China,Fushun,Renewable energy,Manufacturing,True,M,1968.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 591,4.6,Forrest Li,45.0,Singapore,Singapore,Gaming,Media & Entertainment,True,M,1978.0,1.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
-591,4.6,Richard Li,56.0,Hong Kong,Hong Kong,Telecom,Telecom,False,M,1966.0,11.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+591,4.6,Richard Li,56.0,Hong Kong,Hong Kong,Telecom,Telecom,False,M,1966.0,11.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 591,4.6,Doug Meijer & family,69.0,United States,Grand Rapids,Supermarkets,Fashion & Retail,False,M,1954.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 591,4.6,Hank Meijer & family,71.0,United States,Grand Rapids,Supermarkets,Fashion & Retail,False,M,1952.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 591,4.6,Mark Meijer & family,65.0,United States,Grand Rapids,Supermarkets,Fashion & Retail,False,M,1957.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -620,7 +620,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 611,4.5,Hussain Sajwani,70.0,United Arab Emirates,Dubai,Real estate,Real Estate,True,M,1953.0,3.0,114.52,"$421,142,267,938 ",36.8,108.4,77.8,15.9,9.770529,23.424076,53.847818
 611,4.5,David Velez & family,41.0,Brazil,Sao Paulo,Fintech,Finance & Investments,True,M,1981.0,10.0,167.4,"$1,839,758,040,766 ",51.3,115.4,75.7,65.1,212.559417,-14.235004,-51.92528
 611,4.5,Xu Jinfu,59.0,China,Guangzhou,Chemicals,Manufacturing,True,M,1964.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-611,4.5,Samuel Yin,72.0,Taiwan,Taipei,Retail,Diversified,False,M,1950.0,8.0,,,,,,,,,
+611,4.5,Samuel Yin,72.0,Taiwan,Taipei,Retail,Diversified,False,M,1950.0,8.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 611,4.5,You Xiaoping & family,65.0,China,Wenzhou,"Chemicals, spandex",Manufacturing,True,M,1958.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 624,4.4,Stéphane Bancel,50.0,United States,Boston,"Biotech, vaccines",Healthcare,True,M,1972.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 624,4.4,Margot Birmingham Perot,89.0,United States,Dallas,"Computer services, real estate",Technology,False,F,1933.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -651,8 +651,8 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 636,4.3,Jay Paul,75.0,United States,San Francisco,Real estate,Real Estate,True,M,1947.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 636,4.3,Pham Nhat Vuong,54.0,Vietnam,Hanoi,Diversified,Diversified,True,M,1968.0,8.0,163.52,"$261,921,244,843 ",28.5,110.6,75.3,37.6,96.462106,14.058324,108.277199
 636,4.3,Jon Stryker,64.0,United States,New York,Medical equipment,Healthcare,False,M,1958.0,5.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-636,4.3,Daniel Tsai,66.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1956.0,4.0,,,,,,,,,
-636,4.3,Richard Tsai,65.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1957.0,6.0,,,,,,,,,
+636,4.3,Daniel Tsai,66.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1956.0,4.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
+636,4.3,Richard Tsai,65.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1957.0,6.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 636,4.3,Frank Wang,42.0,China,Shenzhen,Drones,Technology,True,M,1980.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 636,4.3,Wang Junshi & family,74.0,China,Ningbo,Solar inverters,Manufacturing,True,M,1949.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 636,4.3,Wang Wenjing,58.0,China,Beijing,Business software,Technology,True,M,1964.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -741,7 +741,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 721,3.9,Julia Oetker,44.0,Germany,Bielefeld,Consumer goods,Fashion & Retail,False,F,1979.0,1.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 721,3.9,Ruan Hongliang & family,62.0,China,Jiaxing,Glass,Manufacturing,True,M,1961.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 721,3.9,Mark Stevens,63.0,United States,Steamboat Springs,Venture capital,Finance & Investments,True,M,1960.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-721,3.9,Tsai Hong-tu,70.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1952.0,8.0,,,,,,,,,
+721,3.9,Tsai Hong-tu,70.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1952.0,8.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 721,3.9,Nusli Wadia,79.0,India,Mumbai,Consumer goods,Food & Beverage,False,M,1944.0,2.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 721,3.9,Wu Yiling,73.0,China,Shijiazhuang,Pharmaceuticals,Healthcare,True,M,1949.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 721,3.9,Yu Renrong,57.0,China,Ningbo,Semiconductors,Manufacturing,True,M,1966.0,4.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -760,7 +760,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 748,3.8,Trevor Rees-Jones,71.0,United States,Dallas,Oil & gas,Energy,True,M,1951.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 748,3.8,Yasumitsu Shigeta,58.0,Japan,Tokyo,Mobile phone retailer,Telecom,True,M,1965.0,2.0,105.48,"$5,081,769,542,380 ",63.2,98.8,84.2,46.7,126.226568,36.204824,138.252924
 748,3.8,Su Qingcan,54.0,China,Xiamen,Healthcare,Healthcare,True,M,1969.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-748,3.8,Tsai Cheng-ta,73.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1950.0,4.0,,,,,,,,,
+748,3.8,Tsai Cheng-ta,73.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1950.0,4.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 748,3.8,Steven Udvar-Hazy,77.0,United States,Westlake,Aircraft leasing,Service,True,M,1946.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 748,3.8,Elizabeth Uihlein,77.0,United States,Lake Forest,Packaging materials,Manufacturing,True,F,1945.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 748,3.8,Richard Uihlein,77.0,United States,Lake Forest,Packaging materials,Manufacturing,True,M,1945.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -793,14 +793,14 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 787,3.6,Beatriz Davila de Santo Domingo,84.0,Bermuda,,Beer,Food & Beverage,False,F,1939.0,3.0,,,,,,,,,
 787,3.6,Bob Gaglardi,82.0,Canada,Vancouver,Hotels,Real Estate,True,M,1941.0,2.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
 787,3.6,Jaime Gilinski Bacal,65.0,United Kingdom,London,Banking,Finance & Investments,False,M,1957.0,12.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
-787,3.6,Pansy Ho,60.0,Hong Kong,Hong Kong,Casinos,Gambling & Casinos,False,F,1962.0,8.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+787,3.6,Pansy Ho,60.0,Hong Kong,Hong Kong,Casinos,Gambling & Casinos,False,F,1962.0,8.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 787,3.6,Alan Howard,59.0,Switzerland,Geneva,Hedge funds,Finance & Investments,True,M,1963.0,9.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 787,3.6,Huang Yi,61.0,China,Beijing,Car dealerships,Automotive,True,M,1962.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 787,3.6,Peter Kellogg,80.0,United States,Short Hills,Investments,Finance & Investments,False,M,1942.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 787,3.6,Vyacheslav Kim,53.0,Kazakhstan,Almaty,Fintech,Finance & Investments,True,M,1969.0,6.0,182.75,"$180,161,741,180 ",61.7,104.4,73.2,28.4,18.51393,48.019573,66.923684
 787,3.6,Josh Kushner,37.0,United States,New York City,Venture capital,Finance & Investments,True,M,1985.0,6.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-787,3.6,Samuel Tak Lee,83.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1939.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-787,3.6,Edwin Leong,71.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1951.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+787,3.6,Samuel Tak Lee,83.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1939.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
+787,3.6,Edwin Leong,71.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1951.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 787,3.6,"Stephen Mandel, Jr.",67.0,United States,Greenwich,Hedge funds,Finance & Investments,True,M,1956.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 787,3.6,Mohamed Mansour,75.0,United Kingdom,London,Diversified,Diversified,True,M,1948.0,1.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 787,3.6,Masahiro Miki,67.0,Japan,Tokyo,Shoes,Fashion & Retail,True,M,1955.0,7.0,105.48,"$5,081,769,542,380 ",63.2,98.8,84.2,46.7,126.226568,36.204824,138.252924
@@ -811,7 +811,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 787,3.6,Juan Roig,73.0,Spain,Valencia,Supermarkets,Fashion & Retail,False,M,1949.0,10.0,110.96,"$1,394,116,310,769 ",88.9,102.7,83.3,47.0,47.076781,40.463667,-3.74922
 787,3.6,Jerry Speyer & family,82.0,United States,New York,Real estate,Real Estate,True,M,1940.0,6.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 787,3.6,Lawrence Stroll,63.0,Switzerland,Geneva,Fashion investments,Fashion & Retail,True,M,1959.0,7.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
-787,3.6,Tung Chee Chen,80.0,Hong Kong,Hong Kong,Shipping,Logistics,False,M,1942.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+787,3.6,Tung Chee Chen,80.0,Hong Kong,Hong Kong,Shipping,Logistics,False,M,1942.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 787,3.6,Wang Junlin,60.0,China,Chengdu,Liquor,Food & Beverage,True,M,1962.0,9.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 787,3.6,Xia Zuoquan,61.0,China,Shenzhen,"Automobiles, batteries",Automotive,True,M,1962.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 787,3.6,Zeng Fangqin,57.0,China,Shenzhen,Smartphone components,Technology,True,F,1965.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -831,7 +831,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 818,3.5,Fan Daidi,57.0,China,Xian,Skincare,Fashion & Retail,True,F,1966.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 818,3.5,Peter Gassner,58.0,United States,Pleasanton,Software,Technology,True,M,1965.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 818,3.5,Mikhail Gutseriev,65.0,Russia,Moscow,"Oil, coal, real estate",Energy,True,M,1958.0,3.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
-818,3.5,Patrick Lee,81.0,Hong Kong,Hong Kong,Paper,Manufacturing,True,M,1942.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+818,3.5,Patrick Lee,81.0,Hong Kong,Hong Kong,Paper,Manufacturing,True,M,1942.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 818,3.5,Leng Youbin,54.0,China,Beijing,Infant formula,Food & Beverage,True,M,1969.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 818,3.5,Daniel Loeb,61.0,United States,New York,Hedge funds,Finance & Investments,True,M,1961.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 818,3.5,Margarita Louis-Dreyfus & family,60.0,Switzerland,Davos,Commodities,Food & Beverage,False,F,1962.0,6.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
@@ -963,20 +963,20 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 949,3.1,Kuok Khoon Hong,73.0,Singapore,Singapore,Palm oil,Manufacturing,False,M,1950.0,1.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
 949,3.1,Aerin Lauder,52.0,United States,New York,Estee Lauder,Fashion & Retail,False,F,1970.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 949,3.1,Sheldon Lavin,90.0,United States,Highland Park,Meat processing,Food & Beverage,True,M,1932.0,6.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-949,3.1,Yin Yee Lee,71.0,Hong Kong,Hong Kong,Glass,Manufacturing,True,M,1952.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+949,3.1,Yin Yee Lee,71.0,Hong Kong,Hong Kong,Glass,Manufacturing,True,M,1952.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 949,3.1,Vladimir Litvinenko & family,67.0,Russia,Saint Petersburg,Chemical industry,Manufacturing,True,M,1955.0,8.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
 949,3.1,Daniel Mate,59.0,Switzerland,Kanton Schwyz,"Mining, commodities",Metals & Mining,True,M,1963.0,6.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 949,3.1,Ravi Modi,46.0,India,Kolkata,Readymade garments,Fashion & Retail,True,M,1977.0,3.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 949,3.1,Farhad Moshiri,67.0,Monaco,Monaco,Diversified,Diversified,True,M,1955.0,5.0,,"$7,184,844,193 ",,,,,0.038964,43.7384176,7.4246158
 949,3.1,Jonathan Nelson,66.0,United States,Providence,Private equity,Finance & Investments,True,M,1956.0,5.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-949,3.1,Or Wai Sheun,71.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1951.0,6.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+949,3.1,Or Wai Sheun,71.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1951.0,6.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 949,3.1,Katharina Otto-Bernstein,59.0,United States,New York,Real estate,Real Estate,False,F,1964.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 949,3.1,Sergei Popov,51.0,Switzerland,,Banking,Finance & Investments,True,M,1971.0,8.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 949,3.1,Penny Pritzker,63.0,United States,Chicago,"Hotels, investments",Finance & Investments,False,F,1959.0,5.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 949,3.1,Theodore Rachmat,79.0,Indonesia,Jakarta,Diversified,Diversified,False,M,1943.0,12.0,151.18,"$1,119,190,780,753 ",36.3,106.4,71.5,30.1,270.203917,-0.789275,113.921327
 949,3.1,Renzo Rosso & family,67.0,Italy,Bassano del Grappa,Fashion,Fashion & Retail,True,M,1955.0,9.0,110.62,"$2,001,244,392,042 ",61.9,101.9,82.9,59.1,60.297396,41.87194,12.56738
 949,3.1,Friede Springer,80.0,Germany,Berlin,Publishing,Media & Entertainment,False,F,1942.0,8.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
-949,3.1,Rita Tong Liu,74.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,F,1948.0,6.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+949,3.1,Rita Tong Liu,74.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,F,1948.0,6.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 949,3.1,Timur Turlov,35.0,Kazakhstan,Almaty,Stock brokerage,Finance & Investments,True,M,1987.0,11.0,182.75,"$180,161,741,180 ",61.7,104.4,73.2,28.4,18.51393,48.019573,66.923684
 949,3.1,Frank VanderSloot,74.0,United States,Idaho Falls,"Nutrition, wellness products",Fashion & Retail,True,M,1948.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 949,3.1,Yoo Jung-hyun,53.0,South Korea,Jeju-do,Online games,Media & Entertainment,True,F,1969.0,4.0,115.16,"$2,029,000,000,000 ",94.3,98.1,82.6,33.2,51.709098,35.907757,127.766922
@@ -988,7 +988,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 982,3.0,Eva Maria Bucher-Haefner,66.0,Switzerland,Zurich,"Software, investments",Technology,False,F,1957.0,1.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 982,3.0,Cai Dongchen,70.0,China,Luancheng,Pharmaceuticals,Healthcare,True,M,1953.0,2.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 982,3.0,Jean-Pierre Cayard,80.0,France,Paris,Spirits,Food & Beverage,False,M,1943.0,1.0,110.05,"$2,715,518,274,227 ",65.6,102.5,82.5,60.7,67.059887,46.227638,2.213749
-982,3.0,Chan Tan Ching-fen,,Hong Kong,Hong Kong,Real estate,Real Estate,False,F,,,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+982,3.0,Chan Tan Ching-fen,,Hong Kong,Hong Kong,Real estate,Real Estate,False,F,,,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 982,3.0,Todd Christopher,60.0,United States,Clearwater,Hair care products,Fashion & Retail,True,M,1962.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 982,3.0,Mang Yee Chu & family,63.0,China,Guangzhou,Real estate,Real Estate,True,M,1960.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 982,3.0,"William Conway, Jr.",73.0,United States,McLean,Private equity,Finance & Investments,True,M,1949.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1005,7 +1005,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 982,3.0,Vivek Jain,67.0,India,Delhi,Chemicals,Manufacturing,False,M,1955.0,8.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 982,3.0,Friedrich Knapp,71.0,Germany,Brunswick,Fashion retail,Fashion & Retail,True,M,1951.0,5.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 982,3.0,Egor Kulkov,51.0,Switzerland,Grimisuat,Pharmaceuticals,Healthcare,True,M,1971.0,12.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
-982,3.0,Lin Ming-hsiung,73.0,Taiwan,Taipei,Supermarkets,Fashion & Retail,True,M,1950.0,1.0,,,,,,,,,
+982,3.0,Lin Ming-hsiung,73.0,Taiwan,Taipei,Supermarkets,Fashion & Retail,True,M,1950.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 982,3.0,Lin Xiucheng & family,67.0,China,Xiamen,Electronics,Technology,True,M,1955.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 982,3.0,Harsh Mariwala,71.0,India,Mumbai,Consumer goods,Food & Beverage,False,M,1951.0,5.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 982,3.0,Gilles Martin,59.0,France,Nantes,Laboratory services,Healthcare,True,M,1963.0,10.0,110.05,"$2,715,518,274,227 ",65.6,102.5,82.5,60.7,67.059887,46.227638,2.213749
@@ -1023,7 +1023,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 982,3.0,Sunny Varkey,65.0,United Arab Emirates,Dubai,Education,Service,False,M,1957.0,4.0,114.52,"$421,142,267,938 ",36.8,108.4,77.8,15.9,9.770529,23.424076,53.847818
 982,3.0,Gang Ye,42.0,Singapore,Singapore,Gaming,Media & Entertainment,True,M,1980.0,6.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
 982,3.0,Ye Xiaoping,60.0,China,Hangzhou,Pharmaceuticals,Healthcare,True,M,1963.0,2.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-982,3.0,Lei Zhang,50.0,Hong Kong,Hong Kong,Investments,Finance & Investments,True,M,1972.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+982,3.0,Lei Zhang,50.0,Hong Kong,Hong Kong,Investments,Finance & Investments,True,M,1972.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 982,3.0,Zhu Gongshan & family,65.0,China,Shanghai,Solar panel materials,Manufacturing,True,M,1958.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1027,2.9,Isak Andic & family,69.0,Spain,Barcelona,Fashion retail,Fashion & Retail,True,M,1953.0,10.0,110.96,"$1,394,116,310,769 ",88.9,102.7,83.3,47.0,47.076781,40.463667,-3.74922
 1027,2.9,Alberto Bombassei,82.0,Italy,Bergamo,Automotive brakes,Automotive,False,M,1940.0,10.0,110.62,"$2,001,244,392,042 ",61.9,101.9,82.9,59.1,60.297396,41.87194,12.56738
@@ -1048,7 +1048,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1027,2.9,Li Xiaohua & family,61.0,China,Yuxi,Packaging,Manufacturing,True,M,1962.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1027,2.9,Liu Xiaodong,55.0,China,Shanghai,Flavorings,Manufacturing,True,M,1967.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1027,2.9,Martin Lorentzon,54.0,Sweden,Stockholm,Spotify,Technology,True,M,1969.0,4.0,110.51,"$530,832,908,738 ",67.0,126.6,82.5,49.1,10.285453,60.128161,18.643501
-1027,2.9,Ronald McAulay,87.0,Hong Kong,Hong Kong,Energy,Energy,False,M,1935.0,10.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1027,2.9,Ronald McAulay,87.0,Hong Kong,Hong Kong,Energy,Energy,False,M,1935.0,10.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1027,2.9,Erwin Franz Mueller,90.0,Germany,Ulm,Drugstores,Fashion & Retail,True,M,1932.0,8.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 1027,2.9,Georg Nemetschek & family,89.0,Germany,Munich,Software,Technology,True,M,1934.0,1.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 1027,2.9,God Nisanov,50.0,Russia,Moscow,Real estate,Real Estate,True,M,1972.0,4.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
@@ -1096,11 +1096,11 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1067,2.8,Stewart Rahr,77.0,United States,New York,Drug distribution,Healthcare,False,M,1946.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1067,2.8,Su Hua,41.0,China,Beijing,Video streaming,Media & Entertainment,True,M,1982.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1067,2.8,Sun Shoukuan,73.0,China,Yingkou,"Metals, coal",Manufacturing,True,M,1949.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1067,2.8,Tseng Cheng,61.0,Taiwan,,Petrochemicals,Manufacturing,False,M,1961.0,12.0,,,,,,,,,
-1067,2.8,Tung Chee Hwa,85.0,Hong Kong,Hong Kong,Shipping,Logistics,False,M,1937.0,7.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1067,2.8,Tseng Cheng,61.0,Taiwan,,Petrochemicals,Manufacturing,False,M,1961.0,12.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
+1067,2.8,Tung Chee Hwa,85.0,Hong Kong,Hong Kong,Shipping,Logistics,False,M,1937.0,7.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1067,2.8,Meg Whitman,66.0,United States,Los Angeles,EBay,Technology,True,F,1956.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1067,2.8,Wong Luen Hei,61.0,Hong Kong,Hong Kong,Building materials,Manufacturing,True,M,1962.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1067,2.8,Chenghai Ye & family,79.0,Hong Kong,Hong Kong,Pharmaceuticals,Healthcare,True,M,1943.0,8.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1067,2.8,Wong Luen Hei,61.0,Hong Kong,Hong Kong,Building materials,Manufacturing,True,M,1962.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
+1067,2.8,Chenghai Ye & family,79.0,Hong Kong,Hong Kong,Pharmaceuticals,Healthcare,True,M,1943.0,8.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1067,2.8,Zhu Xingming,56.0,China,Shenzhen,Electrical equipment,Manufacturing,True,M,1967.0,3.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1104,2.7,Jose Joao Abdalla Filho,77.0,Brazil,Rio de Janeiro,Investments,Finance & Investments,False,M,1945.0,5.0,167.4,"$1,839,758,040,766 ",51.3,115.4,75.7,65.1,212.559417,-14.235004,-51.92528
 1104,2.7,Juan Abello,81.0,Spain,Madrid,Investments,Finance & Investments,False,M,1941.0,12.0,110.96,"$1,394,116,310,769 ",88.9,102.7,83.3,47.0,47.076781,40.463667,-3.74922
@@ -1108,7 +1108,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1104,2.7,Madhur Bajaj,70.0,India,Mumbai,Diversified,Diversified,False,M,1952.0,8.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1104,2.7,Niraj Bajaj,68.0,India,Mumbai,Diversified,Diversified,False,M,1954.0,10.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1104,2.7,Shekhar Bajaj,74.0,India,Mumbai,Diversified,Diversified,False,M,1948.0,6.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
-1104,2.7,Harindarpal Banga,72.0,Hong Kong,Hong Kong,Commodities,Finance & Investments,True,M,1950.0,8.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1104,2.7,Harindarpal Banga,72.0,Hong Kong,Hong Kong,Commodities,Finance & Investments,True,M,1950.0,8.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1104,2.7,Ulrike Baro,,Germany,Munich,Biopharmaceuticals,Healthcare,False,F,,,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 1104,2.7,Anne Beaufour,59.0,United Kingdom,,Pharmaceuticals,Healthcare,False,F,1963.0,8.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 1104,2.7,Henri Beaufour,57.0,United Kingdom,London,Pharmaceuticals,Healthcare,False,M,1965.0,6.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
@@ -1126,15 +1126,15 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1104,2.7,Maggie Hardy,57.0,United States,Belle Vernon,Building materials,Service,False,F,1965.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1104,2.7,Nithin Kamath,43.0,India,Bangalore,Financial services,Finance & Investments,True,M,1979.0,10.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1104,2.7,Samvel Karapetyan,57.0,Russia,Moscow,Real estate,Construction & Engineering,True,M,1965.0,8.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
-1104,2.7,Kei Hoi Pang,57.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1966.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1104,2.7,Kei Hoi Pang,57.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1966.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1104,2.7,Mustafa Rahmi Koc,92.0,Turkey,Istanbul,Diversified,Diversified,False,M,1930.0,10.0,234.44,"$754,411,708,203 ",23.9,93.2,77.4,42.3,83.429615,38.963745,35.243322
 1104,2.7,Yuri Kovalchuk & family,71.0,Russia,St. Petersburg,"Banking, insurance, media",Finance & Investments,True,M,1951.0,7.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
-1104,2.7,Geoffrey Kwok,37.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1985.0,5.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1104,2.7,Jonathan Kwok,31.0,Hong Kong,Hong Kong,Real Estate,Real Estate,False,M,1992.0,3.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1104,2.7,Geoffrey Kwok,37.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1985.0,5.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
+1104,2.7,Jonathan Kwok,31.0,Hong Kong,Hong Kong,Real Estate,Real Estate,False,M,1992.0,3.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1104,2.7,Hans Langer,71.0,Germany,Gräfelfing,3D printing,Manufacturing,True,M,1952.0,1.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 1104,2.7,Frank Laukien,63.0,United States,Boston,Scientific equipment,Manufacturing,False,M,1960.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1104,2.7,Maritsa Lazari & family,78.0,United Kingdom,London,Real estate,Real Estate,True,F,1944.0,10.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
-1104,2.7,Angela Leong,62.0,Hong Kong,Hong Kong,Casinos,Real Estate,False,F,1961.0,3.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1104,2.7,Angela Leong,62.0,Hong Kong,Hong Kong,Casinos,Real Estate,False,F,1961.0,3.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1104,2.7,Li Zhongchu,59.0,China,Beijing,Software,Technology,True,M,1963.0,8.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1104,2.7,Liang Yunchao,54.0,China,Guangzhou,Nutritional supplements,Food & Beverage,True,M,1969.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1104,2.7,Vincent McMahon,77.0,United States,Greenwich,Entertainment,Sports,True,M,1945.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1143,7 +1143,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1104,2.7,Timm Oberwelland,,,,Candy,Food & Beverage,False,M,,,,,,,,,,,
 1104,2.7,Dan Olsson,76.0,Sweden,Gothenburg,Diversified,Diversified,False,M,1947.0,1.0,110.51,"$530,832,908,738 ",67.0,126.6,82.5,49.1,10.285453,60.128161,18.643501
 1104,2.7,Yuji Otsuka,69.0,Japan,Tokyo,"Copy machines, software",Technology,False,M,1954.0,2.0,105.48,"$5,081,769,542,380 ",63.2,98.8,84.2,46.7,126.226568,36.204824,138.252924
-1104,2.7,Pan Dong,58.0,Hong Kong,Hong Kong,Consumer goods,Fashion & Retail,True,F,1965.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1104,2.7,Pan Dong,58.0,Hong Kong,Hong Kong,Consumer goods,Fashion & Retail,True,F,1965.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1104,2.7,Karsanbhai Patel,79.0,India,Ahmedabad,Consumer goods,Diversified,True,M,1944.0,1.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1104,2.7,Richard Peery,84.0,United States,Palo Alto,Real estate,Real Estate,True,M,1938.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1104,2.7,Gianfelice Rocca,75.0,,,Pipe Manufacturing,Metals & Mining,False,M,1948.0,3.0,,,,,,,,,
@@ -1159,7 +1159,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1104,2.7,Thomas Tull,52.0,United States,Pittsburgh,"Movies, investments",Media & Entertainment,True,M,1970.0,6.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1104,2.7,Bulat Utemuratov,65.0,Kazakhstan,Nur-Sultan,"Mining, banking, hotels",Metals & Mining,True,M,1958.0,1.0,182.75,"$180,161,741,180 ",61.7,104.4,73.2,28.4,18.51393,48.019573,66.923684
 1104,2.7,Gustav Magnar Witzoe,29.0,Norway,Kverva,Fish farming,Food & Beverage,False,M,1993.0,4.0,120.27,"$403,336,363,636 ",82.0,100.3,82.8,36.2,5.347896,60.472024,8.468946
-1104,2.7,Wong Man Li,58.0,Hong Kong,Hong Kong,Furniture,Manufacturing,True,M,1965.0,2.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1104,2.7,Wong Man Li,58.0,Hong Kong,Hong Kong,Furniture,Manufacturing,True,M,1965.0,2.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1104,2.7,Guangming Wu,61.0,China,Danyang,Medical equipment,Healthcare,True,M,1962.0,2.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1104,2.7,Zhu Yi,59.0,China,Chengdu,Pharmaceuticals,Healthcare,True,M,1963.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1164,2.6,Ben Ashkenazy,53.0,United States,New York,Real estate,Real Estate,True,M,1969.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1186,7 +1186,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1164,2.6,Zhenda Huang & family,75.0,China,Shantou,Construction,Construction & Engineering,True,M,1947.0,9.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1164,2.6,Dmitry Kamenshchik,54.0,Russia,Moscow,Airport,Service,True,M,1968.0,4.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
 1164,2.6,Alicia Koplowitz,69.0,Spain,Madrid,"Construction, investments",Finance & Investments,False,F,1953.0,9.0,110.96,"$1,394,116,310,769 ",88.9,102.7,83.3,47.0,47.076781,40.463667,-3.74922
-1164,2.6,Adam Kwok,40.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1983.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1164,2.6,Adam Kwok,40.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1983.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1164,2.6,Henry Laufer,77.0,United States,Lake Worth,Hedge funds,Finance & Investments,True,M,1945.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1164,2.6,Louis Le Duff,76.0,France,Paris,Bakeries,Food & Beverage,True,M,1946.0,8.0,110.05,"$2,715,518,274,227 ",65.6,102.5,82.5,60.7,67.059887,46.227638,2.213749
 1164,2.6,Mark Leonard & family,66.0,Canada,Toronto,Software,Technology,True,M,1956.0,5.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
@@ -1245,7 +1245,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1217,2.5,Brad Kelley,66.0,United States,Franklin,Tobacco,Real Estate,True,M,1956.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1217,2.5,Wolfgang Leitner,70.0,Austria,Graz,Engineering,Construction & Engineering,True,M,1953.0,3.0,118.06,"$446,314,739,528 ",85.1,103.1,81.6,51.4,8.877067,47.516231,14.550072
 1217,2.5,Li Hongxin & family,70.0,China,Yanzhou,Paper & related products,Manufacturing,True,M,1953.0,3.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1217,2.5,Lin Chen-hai,76.0,Taiwan,Taipei,Real estate,Real Estate,True,M,1947.0,3.0,,,,,,,,,
+1217,2.5,Lin Chen-hai,76.0,Taiwan,Taipei,Real estate,Real Estate,True,M,1947.0,3.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1217,2.5,Lu Yiwen,36.0,China,Shenzhen,Jewelry,Fashion & Retail,True,F,1987.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1217,2.5,Prayudh Mahagitsiri,77.0,Thailand,Bangkok,"Coffee, shipping",Food & Beverage,False,M,1946.0,1.0,113.27,"$543,649,976,166 ",49.3,99.8,76.9,29.5,69.625582,15.870032,100.992541
 1217,2.5,Willy Michel,76.0,Switzerland,Burgdorf,Medical devices,Healthcare,True,M,1947.0,1.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
@@ -1302,7 +1302,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1272,2.4,Hans Sy,67.0,Philippines,Manila,Diversified,Diversified,False,M,1955.0,9.0,129.61,"$376,795,508,680 ",35.5,107.5,71.1,43.1,108.116615,12.879721,121.774017
 1272,2.4,Herbert Sy,66.0,Philippines,Manila,Diversified,Diversified,False,M,1956.0,10.0,129.61,"$376,795,508,680 ",35.5,107.5,71.1,43.1,108.116615,12.879721,121.774017
 1272,2.4,Lucio Tan,88.0,Philippines,Manila,Diversified,Diversified,True,M,1934.0,7.0,129.61,"$376,795,508,680 ",35.5,107.5,71.1,43.1,108.116615,12.879721,121.774017
-1272,2.4,Tsai Ming-kai,72.0,Taiwan,Hsinchu,Semiconductors,Technology,True,M,1950.0,4.0,,,,,,,,,
+1272,2.4,Tsai Ming-kai,72.0,Taiwan,Hsinchu,Semiconductors,Technology,True,M,1950.0,4.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1272,2.4,Ted Turner,84.0,United States,Atlanta,Cable television,Media & Entertainment,False,M,1938.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1272,2.4,David Walentas,84.0,United States,New York,Real estate,Real Estate,True,M,1938.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1272,2.4,Urs Wietlisbach,61.0,Switzerland,Zug,Private equity,Finance & Investments,True,M,1961.0,8.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
@@ -1315,10 +1315,10 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1312,2.3,John Bicket,43.0,United States,San Francisco,Sensor systems,Technology,True,M,1980.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1312,2.3,Sanjit Biswas,41.0,United States,San Francisco,Sensor systems,Technology,True,M,1982.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1312,2.3,Timothy Boyle,73.0,United States,Portland,Columbia Sportswear,Fashion & Retail,True,M,1949.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1312,2.3,Morris Chang,91.0,Taiwan,Hsinchu,Semiconductors,Technology,True,M,1931.0,7.0,,,,,,,,,
-1312,2.3,Chao Teng-hsiung,78.0,Taiwan,Taipei,Real estate,Real Estate,True,M,1944.0,10.0,,,,,,,,,
+1312,2.3,Morris Chang,91.0,Taiwan,Hsinchu,Semiconductors,Technology,True,M,1931.0,7.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
+1312,2.3,Chao Teng-hsiung,78.0,Taiwan,Taipei,Real estate,Real Estate,True,M,1944.0,10.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1312,2.3,Samuel Chen,73.0,,,Investments,Finance & Investments,True,M,1950.0,1.0,,,,,,,,,
-1312,2.3,Chu Lam Yiu,53.0,Hong Kong,Hong Kong,Flavorings,Manufacturing,True,F,1969.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1312,2.3,Chu Lam Yiu,53.0,Hong Kong,Hong Kong,Flavorings,Manufacturing,True,F,1969.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1312,2.3,K. Dinesh,68.0,India,Bangalore,Software services,Technology,True,M,1954.0,6.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1312,2.3,James Duff,62.0,United States,Hattiesburg,"Tires, diversified",Diversified,True,M,1961.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1312,2.3,Thomas Duff,66.0,United States,Hattiesburg,"Tires, diversified",Diversified,True,M,1956.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1331,7 +1331,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1312,2.3,Bruce Karsh,67.0,United States,Los Angeles,Private equity,Finance & Investments,True,M,1955.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1312,2.3,Bom Kim,44.0,South Korea,Seoul,Online retailing,Technology,True,M,1978.0,10.0,115.16,"$2,029,000,000,000 ",94.3,98.1,82.6,33.2,51.709098,35.907757,127.766922
 1312,2.3,Jianping Lai,,China,Foshan,Soy sauce,Food & Beverage,True,M,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1312,2.3,Lam Kong,58.0,Hong Kong,Hong Kong,Pharmaceuticals,Healthcare,True,M,1964.0,6.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1312,2.3,Lam Kong,58.0,Hong Kong,Hong Kong,Pharmaceuticals,Healthcare,True,M,1964.0,6.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1312,2.3,Stephen Lansdown,70.0,Guernsey,St. Peter Port,Financial services,Finance & Investments,True,M,1952.0,8.0,,,,,,,,,
 1312,2.3,Kevin David Lehmann,20.0,,,Drugstores,Fashion & Retail,False,M,2002.0,9.0,,,,,,,,,
 1312,2.3,Li Haiyan,,China,Chengdu,Restaurants,Food & Beverage,True,F,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -1353,9 +1353,9 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1312,2.3,Stephan Schmidheiny,75.0,Switzerland,Hurden,Investments,Finance & Investments,False,M,1947.0,10.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 1312,2.3,Alberto Siccardi & family,78.0,Switzerland,Lugano,Medical devices,Healthcare,False,M,1944.0,5.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 1312,2.3,Stefan Soloviev,47.0,United States,Delray Beach,"Real estate, grains",Real Estate,False,M,1975.0,5.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1312,2.3,Tang Yiu,89.0,Hong Kong,Hong Kong,Fashion retail,Fashion & Retail,True,M,1934.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1312,2.3,Tang Yiu,89.0,Hong Kong,Hong Kong,Fashion retail,Fashion & Retail,True,M,1934.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1312,2.3,Tian Ming,69.0,China,Hefei,Measuring instruments,Technology,True,M,1953.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1312,2.3,T.Y. Tsai,70.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1953.0,1.0,,,,,,,,,
+1312,2.3,T.Y. Tsai,70.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1953.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1312,2.3,Jayshree Ullal,62.0,United States,Saratoga,Computer networking,Technology,True,F,1961.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1312,2.3,Georg von Opel,56.0,United Kingdom,London,"Real estate, investments",Finance & Investments,False,M,1966.0,5.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 1312,2.3,Lang Walker,77.0,Australia,Sydney,Real estate,Real Estate,True,M,1945.0,7.0,119.8,"$1,392,680,589,329 ",113.1,100.3,82.7,47.4,25.766605,-25.274398,133.775136
@@ -1427,7 +1427,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1368,2.2,David Wertheim,65.0,Israel,,Coca-Cola Israel,Food & Beverage,False,M,1958.0,1.0,108.15,"$395,098,666,122 ",63.4,104.9,82.8,25.3,9.0533,31.046051,34.851612
 1368,2.2,Kai Wu,55.0,China,Ningde,Batteries,Energy,True,M,1968.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1368,2.2,Xu Yingzhuo,55.0,China,Guangzhou,Agribusiness,Food & Beverage,True,M,1968.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1368,2.2,Yeung Kin-man,59.0,Hong Kong,Hong Kong,Electronics,Manufacturing,True,M,1964.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1368,2.2,Yeung Kin-man,59.0,Hong Kong,Hong Kong,Electronics,Manufacturing,True,M,1964.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1368,2.2,Huijiao Yu,57.0,China,Shanghai,Package delivery,Logistics,True,M,1966.0,4.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1368,2.2,Oren Zeev,58.0,United States,Los Altos,Investments,Finance & Investments,True,M,1964.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1368,2.2,Clayton Zekelman,54.0,Canada,Windsor,Steel,Manufacturing,False,M,1969.0,1.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
@@ -1439,9 +1439,9 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1434,2.1,William Boyd & family,91.0,United States,Las Vegas,"Casinos, banking",Gambling & Casinos,True,M,1931.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1434,2.1,Anand Burman,70.0,India,Delhi,Consumer goods,Food & Beverage,False,M,1952.0,5.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1434,2.1,Cao Ji,71.0,China,Hangzhou,Manufacturing,Manufacturing,True,M,1952.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1434,2.1,Bruce Cheng,86.0,Taiwan,Taipei,Electronics,Technology,True,M,1936.0,11.0,,,,,,,,,
+1434,2.1,Bruce Cheng,86.0,Taiwan,Taipei,Electronics,Technology,True,M,1936.0,11.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1434,2.1,Chi Yufeng,52.0,China,Beijing,Software,Technology,False,M,1971.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1434,2.1,Daniel Chiu,62.0,Hong Kong,Hong Kong,Oil & gas,Energy,True,M,1960.0,11.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1434,2.1,Daniel Chiu,62.0,Hong Kong,Hong Kong,Oil & gas,Energy,True,M,1960.0,11.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1434,2.1,Beda Diethelm,82.0,Switzerland,Zurich,Hearing aids,Healthcare,True,M,1941.0,1.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 1434,2.1,Domenico Dolce,64.0,Italy,Milan,Luxury goods,Fashion & Retail,True,M,1958.0,8.0,110.62,"$2,001,244,392,042 ",61.9,101.9,82.9,59.1,60.297396,41.87194,12.56738
 1434,2.1,Ralph Dommermuth,59.0,Germany,Montabaur,Internet service provider,Technology,True,M,1963.0,11.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
@@ -1460,18 +1460,18 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1434,2.1,Stein Erik Hagen,66.0,Norway,Oslo,Consumer goods,Fashion & Retail,True,M,1956.0,7.0,120.27,"$403,336,363,636 ",82.0,100.3,82.8,36.2,5.347896,60.472024,8.468946
 1434,2.1,Bahaa Hariri,56.0,Switzerland,Geneva,"Real estate, investments",Real Estate,False,M,1966.0,4.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 1434,2.1,Hortensia Herrero,72.0,Spain,Valencia,Supermarkets,Fashion & Retail,False,F,1950.0,5.0,110.96,"$1,394,116,310,769 ",88.9,102.7,83.3,47.0,47.076781,40.463667,-3.74922
-1434,2.1,Douglas Hsu,80.0,Taiwan,Taipei,Diversified,Diversified,False,M,1942.0,8.0,,,,,,,,,
+1434,2.1,Douglas Hsu,80.0,Taiwan,Taipei,Diversified,Diversified,False,M,1942.0,8.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1434,2.1,Huang Min,49.0,China,Suzhou,Machinery,Manufacturing,True,M,1973.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1434,2.1,Jared Isaacman,40.0,United States,Easton,Payment processing,Technology,True,M,1983.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1434,2.1,Eugene Kaspersky,57.0,Russia,Moscow,Software,Technology,True,M,1965.0,10.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
 1434,2.1,Artem Khachatryan,48.0,Cyprus,Limassol,Retail,Fashion & Retail,True,M,1975.0,1.0,102.51,"$24,564,647,935 ",75.9,99.3,80.8,22.4,1.198575,35.126413,33.429859
 1434,2.1,Andrei Krivenko,47.0,Russia,Moscow,Retail,Food & Beverage,True,M,1975.0,7.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
-1434,2.1,Thomas Kwok,71.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1951.0,10.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1434,2.1,Lam Wai-ying,,Hong Kong,Hong Kong,Smartphone screens,Manufacturing,True,F,,,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1434,2.1,Thomas Kwok,71.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1951.0,10.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
+1434,2.1,Lam Wai-ying,,Hong Kong,Hong Kong,Smartphone screens,Manufacturing,True,F,,,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1434,2.1,Marc Lasry,62.0,United States,New York,Hedge funds,Finance & Investments,True,M,1960.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1434,2.1,Christian Latouche & family,82.0,France,Lyon,Accounting services,Finance & Investments,True,M,1940.0,7.0,110.05,"$2,715,518,274,227 ",65.6,102.5,82.5,60.7,67.059887,46.227638,2.213749
 1434,2.1,Theodore Leonsis,67.0,United States,Bethesda,Sports teams,Sports,True,M,1956.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1434,2.1,Lin Chang Su-O,82.0,Taiwan,Taipei,Real estate,Real Estate,False,F,1940.0,8.0,,,,,,,,,
+1434,2.1,Lin Chang Su-O,82.0,Taiwan,Taipei,Real estate,Real Estate,False,F,1940.0,8.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1434,2.1,Liu Chengyu & family,60.0,China,Shenzhen,Power supply equipment,Manufacturing,True,M,1962.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1434,2.1,Sergey Lomakin,49.0,Cyprus,Paphos,Retail,Fashion & Retail,True,M,1973.0,5.0,102.51,"$24,564,647,935 ",75.9,99.3,80.8,22.4,1.198575,35.126413,33.429859
 1434,2.1,Daniel Lubetzky,54.0,United States,New York,Snack bars,Food & Beverage,True,M,1968.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1504,12 +1504,12 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1434,2.1,Hamdi Ulukaya,50.0,United States,Norwich,Greek yogurt,Food & Beverage,True,M,1972.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1434,2.1,Wang Linpeng,54.0,China,Beijing,Furniture retailing,Construction & Engineering,True,M,1968.0,5.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1434,2.1,Wei Ing-Chou,69.0,China,Tianjin,"Food, beverages",Food & Beverage,True,M,1953.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1434,2.1,Wei Yin-Chun,66.0,Taiwan,Taipei,"Food, beverages",Food & Beverage,True,M,1957.0,3.0,,,,,,,,,
+1434,2.1,Wei Yin-Chun,66.0,Taiwan,Taipei,"Food, beverages",Food & Beverage,True,M,1957.0,3.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1434,2.1,Wei Yin-Heng,64.0,China,Shanghai,"Food, beverages",Food & Beverage,True,M,1959.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1434,2.1,Wei Ying-Chiao,68.0,Taiwan,Taipei,"Food, beverages",Food & Beverage,True,M,1955.0,2.0,,,,,,,,,
+1434,2.1,Wei Ying-Chiao,68.0,Taiwan,Taipei,"Food, beverages",Food & Beverage,True,M,1955.0,2.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1434,2.1,Elaine Wynn,80.0,United States,Las Vegas,"Casinos, hotels",Gambling & Casinos,True,F,1942.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1434,2.1,Xu Xudong & family,53.0,China,Ningbo,Auto parts,Automotive,True,M,1970.0,3.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1434,2.1,Michael Ying,73.0,Hong Kong,Hong Kong,Retail,Fashion & Retail,True,M,1949.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1434,2.1,Michael Ying,73.0,Hong Kong,Hong Kong,Retail,Fashion & Retail,True,M,1949.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1434,2.1,Yu Qibing & family,57.0,China,Ningbo,Glass,Manufacturing,True,M,1965.0,11.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1434,2.1,Yuan Fugen & family,72.0,China,Suzhou,Metal processing,Manufacturing,True,M,1950.0,11.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1434,2.1,Zhang Ning & family,49.0,China,Shanghai,Chemicals,Manufacturing,True,F,1974.0,4.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -1530,14 +1530,14 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1516,2.0,Amy Goldman Fowler,68.0,United States,Rhinebeck,Real estate,Real Estate,False,F,1954.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1516,2.0,John Hancock,47.0,United Kingdom,London,Mining,Metals & Mining,False,M,1976.0,1.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 1516,2.0,Hu Yangzhong,58.0,China,Hangzhou,Technology,Technology,True,M,1965.0,3.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1516,2.0,Huang Dawen,62.0,Hong Kong,Hong Kong,Silicon,Manufacturing,True,M,1960.0,11.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1516,2.0,Huang Dawen,62.0,Hong Kong,Hong Kong,Silicon,Manufacturing,True,M,1960.0,11.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1516,2.0,Huang Qiaoling,64.0,China,Hangzhou,Amusement parks,Media & Entertainment,True,M,1958.0,11.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1516,2.0,Rajiv Jain,55.0,United States,Fort Lauderdale,Finance,Finance & Investments,True,M,1968.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1516,2.0,Michael Jordan,60.0,United States,Jupiter,"Charlotte Hornets, endorsements",Sports,True,M,1963.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1516,2.0,Diane Kemper,77.0,United States,New York,Real estate,Real Estate,False,F,1945.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1516,2.0,Shlomo Kramer,57.0,Israel,Tel Aviv,"Software, investments",Technology,True,M,1966.0,3.0,108.15,"$395,098,666,122 ",63.4,104.9,82.8,25.3,9.0533,31.046051,34.851612
 1516,2.0,Heikki Kyostila,77.0,Finland,Helsinki,Dental products,Healthcare,True,M,1946.0,1.0,112.33,"$268,761,201,365 ",88.2,100.2,81.7,36.6,5.520314,61.92411,25.748151
-1516,2.0,Martin Lau,50.0,Hong Kong,Hong Kong,E-commerce,Technology,True,M,1973.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1516,2.0,Martin Lau,50.0,Hong Kong,Hong Kong,E-commerce,Technology,True,M,1973.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1516,2.0,Li Min,57.0,China,Fuzhou,Semiconductor,Technology,True,M,1965.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1516,2.0,Liang Rubo,40.0,China,Beijing,TikTok,Technology,True,M,1983.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1516,2.0,Liang Zhaoxian,58.0,China,Foshan,Appliances,Manufacturing,False,M,1965.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -1596,7 +1596,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1575,1.9,Bulent Eczacibasi,73.0,Turkey,Istanbul,"Pharmaceuticals, diversified",Diversified,False,M,1949.0,12.0,234.44,"$754,411,708,203 ",23.9,93.2,77.4,42.3,83.429615,38.963745,35.243322
 1575,1.9,Faruk Eczacibasi,68.0,Turkey,Istanbul,"Pharmaceuticals, diversified",Diversified,False,M,1954.0,6.0,234.44,"$754,411,708,203 ",23.9,93.2,77.4,42.3,83.429615,38.963745,35.243322
 1575,1.9,Eduardo Eurnekian,90.0,Argentina,Buenos Aires,"Airports, investments",Diversified,True,M,1932.0,12.0,232.75,"$449,663,446,954 ",90.0,109.7,76.5,106.3,44.938712,-38.416097,-63.616672
-1575,1.9,David Fong,65.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1957.0,5.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1575,1.9,David Fong,65.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1957.0,5.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1575,1.9,Guo Zhenyu & family,59.0,China,Kunming,Cosmetics,Fashion & Retail,True,M,1963.0,11.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1575,1.9,Surjit Kumar Gupta,81.0,India,Delhi,Electrical equipment,Manufacturing,False,M,1942.0,1.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1575,1.9,Caroline Hagen Kjos,39.0,Switzerland,Wollerau,Conglomerate,Diversified,False,F,1984.0,1.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
@@ -1604,7 +1604,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1575,1.9,Reid Hoffman,55.0,United States,Palo Alto,LinkedIn,Technology,True,M,1967.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1575,1.9,Hu Rongda & family,64.0,China,Jinhua,Chemicals,Manufacturing,True,M,1959.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1575,1.9,"B. Wayne Hughes, Jr.",63.0,United States,Jackson,Storage facilities,Real Estate,False,M,1959.0,5.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1575,1.9,Hui Wing Mau,72.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1950.0,7.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1575,1.9,Hui Wing Mau,72.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1950.0,7.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1575,1.9,Scott Kapnick,64.0,United States,Naples,Private equity,Finance & Investments,True,M,1959.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1575,1.9,Richard Kayne,77.0,United States,Santa Monica,Investments,Finance & Investments,True,M,1946.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1575,1.9,Dominika Kulczyk,45.0,United Kingdom,London,Diversified,Finance & Investments,False,F,1977.0,7.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
@@ -1615,7 +1615,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1575,1.9,Lin Dingqiang & family,56.0,China,Beijing,Real estate,Real Estate,True,M,1966.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1575,1.9,Sarah MacMillan,69.0,United States,Los Angeles,Cargill,Food & Beverage,False,F,1954.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1575,1.9,Strive Masiyiwa,62.0,United Kingdom,London,Telecom,Telecom,True,M,1961.0,1.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
-1575,1.9,Robert Miller,89.0,Hong Kong,Hong Kong,Retail,Fashion & Retail,True,M,1933.0,5.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1575,1.9,Robert Miller,89.0,Hong Kong,Hong Kong,Retail,Fashion & Retail,True,M,1933.0,5.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1575,1.9,Simon Nixon,55.0,United Kingdom,"St. Brelade, Jersey",Price comparison website,Technology,True,M,1967.0,8.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 1575,1.9,Kentaro Ogawa,74.0,Japan,Tokyo,Restaurants,Food & Beverage,True,M,1948.0,7.0,105.48,"$5,081,769,542,380 ",63.2,98.8,84.2,46.7,126.226568,36.204824,138.252924
 1575,1.9,Ajay Parekh,65.0,India,Mumbai,Adhesives,Manufacturing,False,M,1957.0,6.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
@@ -1628,7 +1628,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1575,1.9,Shao Jianxiong,,China,Hangzhou,Photovoltaics,Energy,True,M,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1575,1.9,Qinxiang Shao,68.0,China,Hangzhou,Diversified,Manufacturing,True,M,1954.0,9.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1575,1.9,Hua Shen,60.0,China,Jiaxing,Semiconductors,Technology,True,M,1963.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1575,1.9,Shi Wen-long,95.0,Taiwan,Tainan,Plastics,Manufacturing,True,M,1928.0,2.0,,,,,,,,,
+1575,1.9,Shi Wen-long,95.0,Taiwan,Tainan,Plastics,Manufacturing,True,M,1928.0,2.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1575,1.9,Peter Sondakh,73.0,Indonesia,Surabaya,Investments,Finance & Investments,True,M,1950.0,2.0,151.18,"$1,119,190,780,753 ",36.3,106.4,71.5,30.1,270.203917,-0.789275,113.921327
 1575,1.9,Lucy Stitzer,63.0,United States,Greenwich,Cargill,Food & Beverage,False,F,1960.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1575,1.9,Elizabeth Sy,70.0,Philippines,Manila,Diversified,Diversified,False,F,1952.0,6.0,129.61,"$376,795,508,680 ",35.5,107.5,71.1,43.1,108.116615,12.879721,121.774017
@@ -1706,7 +1706,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1647,1.8,Suh Kyung-bae,60.0,South Korea,Seoul,Cosmetics,Fashion & Retail,False,M,1963.0,1.0,115.16,"$2,029,000,000,000 ",94.3,98.1,82.6,33.2,51.709098,35.907757,127.766922
 1647,1.8,Bambang Sutantio,64.0,Indonesia,,Dairy & consumer products,Food & Beverage,True,M,1958.0,12.0,151.18,"$1,119,190,780,753 ",36.3,106.4,71.5,30.1,270.203917,-0.789275,113.921327
 1647,1.8,Sze Man Bok,73.0,China,Jinjiang,Hygiene products,Manufacturing,True,M,1950.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1647,1.8,Jim Thompson,83.0,Hong Kong,Hong Kong,Logistics,Logistics,True,M,1940.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1647,1.8,Jim Thompson,83.0,Hong Kong,Hong Kong,Logistics,Logistics,True,M,1940.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1647,1.8,Tran Dinh Long,62.0,Vietnam,Hanoi,Steel,Manufacturing,True,M,1961.0,1.0,163.52,"$261,921,244,843 ",28.5,110.6,75.3,37.6,96.462106,14.058324,108.277199
 1647,1.8,Alan Trefler,67.0,United States,Brookline,Software,Technology,True,M,1956.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1647,1.8,Riaz Valani,46.0,United States,Malibu,E-cigarettes,Finance & Investments,True,M,1976.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1716,7 +1716,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1647,1.8,Todd Wagner,62.0,United States,Dallas,Online media,Media & Entertainment,True,M,1960.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1647,1.8,Evan Williams,51.0,United States,San Francisco,Twitter,Technology,True,M,1972.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1647,1.8,Kie Chie Wong,75.0,Australia,Sydney,Investments,Metals & Mining,False,M,1948.0,4.0,119.8,"$1,392,680,589,329 ",113.1,100.3,82.7,47.4,25.766605,-25.274398,133.775136
-1647,1.8,Thomas Wu,72.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1950.0,4.0,,,,,,,,,
+1647,1.8,Thomas Wu,72.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1950.0,4.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1647,1.8,Wu Yingming,56.0,China,Ningde,Batteries,Energy,True,M,1967.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1647,1.8,Amy Wyss,52.0,United States,Wilson,Medical equipment,Healthcare,False,F,1971.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1647,1.8,Yan Zhi,50.0,China,Wuhan,Real estate,Real Estate,True,M,1972.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -1756,8 +1756,8 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1725,1.7,Kim Jung-min,21.0,,,Online gaming,Media & Entertainment,False,F,2002.0,1.0,,,,,,,,,
 1725,1.7,Kim Jung-youn,19.0,,,Online gaming,Media & Entertainment,False,F,2004.0,1.0,,,,,,,,,
 1725,1.7,Mustafa Kucuk,59.0,Turkey,Istanbul,Fashion retail,Fashion & Retail,True,M,1963.0,6.0,234.44,"$754,411,708,203 ",23.9,93.2,77.4,42.3,83.429615,38.963745,35.243322
-1725,1.7,Christopher Kwok,37.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1986.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1725,1.7,Edward Kwok,42.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1981.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1725,1.7,Christopher Kwok,37.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1986.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
+1725,1.7,Edward Kwok,42.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1981.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1725,1.7,Lai Jianfa,53.0,China,Shanghai,Express delivery,Logistics,True,M,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1725,1.7,Lau Cho Kun,87.0,Malaysia,"Tawau, Sabah","Palm oil, property",Diversified,False,M,1936.0,1.0,121.46,"$364,701,517,788 ",45.1,105.3,76.0,38.7,32.447385,4.210484,101.975766
 1725,1.7,Alexis Lê-Quôc,48.0,United States,New York,Cloud computing,Technology,True,M,1974.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1789,7 +1789,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1725,1.7,Alain Taravella,75.0,France,Paris,Real estate development,Real Estate,True,M,1948.0,1.0,110.05,"$2,715,518,274,227 ",65.6,102.5,82.5,60.7,67.059887,46.227638,2.213749
 1725,1.7,Jonathan Tisch,69.0,United States,New York,"Insurance, NFL team",Diversified,False,M,1953.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1725,1.7,Kenneth Tuchman,63.0,United States,Denver,Call centers,Service,True,M,1959.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1725,1.7,Wang Chou-hsiong,82.0,Taiwan,Yunlin,Footwear,Manufacturing,True,M,1941.0,1.0,,,,,,,,,
+1725,1.7,Wang Chou-hsiong,82.0,Taiwan,Yunlin,Footwear,Manufacturing,True,M,1941.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1725,1.7,Wang Minwen,59.0,China,Beijing,Semiconductor,Technology,True,M,1963.0,11.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1725,1.7,Tom Werner,72.0,United States,Los Angeles,Sports teams,Sports,True,M,1950.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1725,1.7,Stephen Winn,76.0,United States,Dallas,Real estate services,Real Estate,True,M,1946.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1814,7 +1814,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1804,1.6,Josef Boquoi & family,89.0,Germany,Straelen,Frozen foods,Food & Beverage,True,M,1934.0,1.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 1804,1.6,Cai Huabo,47.0,China,Jiujiang,Electronics,Technology,True,M,1976.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1804,1.6,Chen Tianshi,38.0,China,Beijing,Semiconductors,Technology,True,M,1985.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1804,1.6,Chen Yung-tai,87.0,Taiwan,Taipei,Real estate,Real Estate,True,M,1936.0,1.0,,,,,,,,,
+1804,1.6,Chen Yung-tai,87.0,Taiwan,Taipei,Real estate,Real Estate,True,M,1936.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1804,1.6,Chey Tae-won,62.0,South Korea,Seoul,"Oil, semiconductor",Technology,False,M,1960.0,12.0,115.16,"$2,029,000,000,000 ",94.3,98.1,82.6,33.2,51.709098,35.907757,127.766922
 1804,1.6,Ivan Chrenko,55.0,Slovakia,Bratislava,Real estate,Real Estate,True,M,1967.0,6.0,115.34,"$105,422,304,976 ",46.6,98.7,77.2,49.7,5.454073,48.669026,19.699024
 1804,1.6,Robert Clark,64.0,United States,St. Louis,Construction,Construction & Engineering,True,M,1959.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -1854,7 +1854,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1804,1.6,Li Wa,57.0,China,Shenzhen,Real estate,Real Estate,True,M,1966.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1804,1.6,Li Weiwei,46.0,China,Shanghai,Online games,Technology,True,M,1977.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1804,1.6,Liang Qin & family,51.0,China,Yangzhou,Semiconductor devices,Technology,True,F,1971.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1804,1.6,Vincent Lo,75.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1948.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1804,1.6,Vincent Lo,75.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1948.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1804,1.6,Terence (Terry) Matthews,80.0,Canada,Ottawa,Telecom,Telecom,True,M,1943.0,4.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
 1804,1.6,Jim McKelvey,57.0,United States,St. Louis,Mobile payments,Technology,True,M,1965.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1804,1.6,P.N.C. Menon,74.0,United Arab Emirates,Dubai,Real estate,Real Estate,True,M,1948.0,11.0,114.52,"$421,142,267,938 ",36.8,108.4,77.8,15.9,9.770529,23.424076,53.847818
@@ -1878,7 +1878,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1804,1.6,Steven Tisch,74.0,United States,Beverly Hills,Insurance,Diversified,False,M,1949.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 1804,1.6,Michael Tojner,57.0,Austria,Vienna,"Batteries, investments",Manufacturing,True,M,1966.0,3.0,118.06,"$446,314,739,528 ",85.1,103.1,81.6,51.4,8.877067,47.516231,14.550072
 1804,1.6,August Troendle,67.0,United States,Cincinnati,Pharmaceutical services,Healthcare,True,M,1956.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1804,1.6,Tseng Sing-ai,,Taiwan,,Petrochemicals,Manufacturing,False,F,,,,,,,,,,,
+1804,1.6,Tseng Sing-ai,,Taiwan,,Petrochemicals,Manufacturing,False,F,,,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1804,1.6,Sekar Vembu,51.0,India,Chennai,Business software,Technology,True,M,1972.0,1.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1804,1.6,Chris Wallin,70.0,Australia,Brisbane,Mining,Energy,True,M,1953.0,1.0,119.8,"$1,392,680,589,329 ",113.1,100.3,82.7,47.4,25.766605,-25.274398,133.775136
 1804,1.6,Wang Changtian,57.0,China,Beijing,"TV, movie production",Media & Entertainment,True,M,1965.0,4.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -1918,7 +1918,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1905,1.5,Saket Burman,46.0,United Arab Emirates,Dubai,Consumer goods,Food & Beverage,False,M,1977.0,3.0,114.52,"$421,142,267,938 ",36.8,108.4,77.8,15.9,9.770529,23.424076,53.847818
 1905,1.5,Ahmet Calik,65.0,Turkey,Istanbul,"Energy, banking, construction",Diversified,True,M,1958.0,3.0,234.44,"$754,411,708,203 ",23.9,93.2,77.4,42.3,83.429615,38.963745,35.243322
 1905,1.5,Safra Catz,61.0,United States,Redwood City,Software,Technology,True,F,1961.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1905,1.5,Chang Kuo-Hua,68.0,Taiwan,Taipei,"Shipping, airlines",Logistics,False,M,1955.0,1.0,,,,,,,,,
+1905,1.5,Chang Kuo-Hua,68.0,Taiwan,Taipei,"Shipping, airlines",Logistics,False,M,1955.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1905,1.5,Chu Jian,60.0,China,Hangzhou,Manufacturing,Manufacturing,True,M,1963.0,4.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Sandor Csanyi,70.0,Hungary,Budapest,"Finance, real estate",Diversified,True,M,1953.0,3.0,121.64,"$160,967,157,504 ",48.5,100.8,75.8,37.9,9.769949,47.162494,19.503304
 1905,1.5,Ana Lucia de Mattos Barretto Villela,49.0,Brazil,Sao Paulo,Banking,Finance & Investments,False,F,1973.0,10.0,167.4,"$1,839,758,040,766 ",51.3,115.4,75.7,65.1,212.559417,-14.235004,-51.92528
@@ -1938,7 +1938,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1905,1.5,He Zhenggang,69.0,China,Leshan,Chemicals,Manufacturing,True,M,1954.0,3.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Niranjan Hiranandani,73.0,India,Mumbai,Real estate,Real Estate,True,M,1950.0,3.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 1905,1.5,Ho Hung Anh,52.0,Vietnam,Hanoi,"Consumer products, banking",Finance & Investments,True,M,1970.0,6.0,163.52,"$261,921,244,843 ",28.5,110.6,75.3,37.6,96.462106,14.058324,108.277199
-1905,1.5,Archie Hwang,70.0,Taiwan,Taipei,Semiconductors,Technology,True,M,1952.0,8.0,,,,,,,,,
+1905,1.5,Archie Hwang,70.0,Taiwan,Taipei,Semiconductors,Technology,True,M,1952.0,8.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1905,1.5,Peter Jackson,61.0,New Zealand,Wellington,"Movies, digital effects",Media & Entertainment,True,M,1961.0,10.0,114.24,"$206,928,765,544 ",82.0,100.0,81.9,34.6,4.841,-40.900557,174.885971
 1905,1.5,Stephen Jarislowsky,97.0,Canada,Montreal,Money management,Finance & Investments,True,M,1925.0,9.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
 1905,1.5,Rajeev Juneja,57.0,India,Delhi,Phamaceuticals,Healthcare,True,M,1965.0,7.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
@@ -1956,7 +1956,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1905,1.5,Li Jiaquan,59.0,China,Chengdu,Chemicals,Manufacturing,True,M,1963.0,9.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Li Rucheng,71.0,China,Ningbo,Apparel,Fashion & Retail,True,M,1951.0,6.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Li Shui-po,66.0,China,Kunshan,Stainless steel products,Manufacturing,True,M,1956.0,8.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-1905,1.5,Scott Lin,90.0,Taiwan,Taichung,Optical components,Technology,True,M,1933.0,1.0,,,,,,,,,
+1905,1.5,Scott Lin,90.0,Taiwan,Taichung,Optical components,Technology,True,M,1933.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 1905,1.5,Liu Xiucai & family,66.0,China,Shanghai,Chemicals,Manufacturing,True,M,1957.0,3.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Lu Zhongfang,80.0,China,Tonghua,Education,Automotive,True,F,1942.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Lu Zongjun,59.0,China,Shanghai,Logistics,Logistics,True,M,1963.0,6.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -2008,7 +2008,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 1905,1.5,Wang Junmin,54.0,China,Chengdu,Pharmaceuticals,Healthcare,True,M,1968.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Weng Xianding,61.0,China,Shenzhen,Medical devices,Healthcare,True,M,1961.0,11.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Farris Wilks,71.0,United States,Cisco,Natural gas,Energy,True,M,1952.0,2.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-1905,1.5,Gordon Wu,87.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1935.0,12.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+1905,1.5,Gordon Wu,87.0,Hong Kong,Hong Kong,Real estate,Real Estate,True,M,1935.0,12.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 1905,1.5,Xiong Wu,47.0,China,Shenzhen,Software,Technology,True,M,1976.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Xu Zhenhua,,China,Shanghai,Online games,Media & Entertainment,True,M,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 1905,1.5,Xu Zhihan,50.0,China,Wuxi,Electronics,Technology,True,M,1972.0,11.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -2060,7 +2060,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2020,1.4,Kwee Liong Tek,76.0,Singapore,Singapore,Real estate,Real Estate,False,M,1947.0,1.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
 2020,1.4,Kwek Leng Keow,71.0,Singapore,Singapore,Diversified,Diversified,False,M,1952.0,1.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
 2020,1.4,Kwek Leng Peck,67.0,Singapore,Singapore,Diversified,Diversified,False,M,1956.0,1.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
-2020,1.4,Raymond Kwok,69.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1953.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2020,1.4,Raymond Kwok,69.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1953.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2020,1.4,Lee Ho-jin,60.0,South Korea,Seoul,Diversified,Diversified,False,M,1962.0,12.0,115.16,"$2,029,000,000,000 ",94.3,98.1,82.6,33.2,51.709098,35.907757,127.766922
 2020,1.4,Michael Lee-Chin,72.0,Canada,Burlington,Mutual funds,Finance & Investments,True,M,1951.0,1.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
 2020,1.4,Manfredi Lefebvre d'Ovidio & family,69.0,Monaco,Monte Carlo,Cruises,Service,False,M,1953.0,4.0,,"$7,184,844,193 ",,,,,0.038964,43.7384176,7.4246158
@@ -2069,8 +2069,8 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2020,1.4,William Li,48.0,China,Beijing,Electric vehicles,Automotive,True,M,1975.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2020,1.4,Jenny Lindén Urnes,52.0,Sweden,Helsingborg,Powdered metal,Manufacturing,False,F,1971.0,3.0,110.51,"$530,832,908,738 ",67.0,126.6,82.5,49.1,10.285453,60.128161,18.643501
 2020,1.4,Liu Fangyi,53.0,China,Shanghai,Medical equipment,Healthcare,True,M,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2020,1.4,K.C. Liu,69.0,Taiwan,Taipei,Manufacturing,Technology,True,M,1954.0,3.0,,,,,,,,,
-2020,1.4,Liu Ming Chung,60.0,Hong Kong,Hong Kong,Paper,Manufacturing,True,M,1963.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2020,1.4,K.C. Liu,69.0,Taiwan,Taipei,Manufacturing,Technology,True,M,1954.0,3.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
+2020,1.4,Liu Ming Chung,60.0,Hong Kong,Hong Kong,Paper,Manufacturing,True,M,1963.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2020,1.4,Anatoly Lomakin,70.0,Russia,Moscow,Investments,Metals & Mining,True,M,1952.0,6.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
 2020,1.4,Brandt Louie,79.0,Canada,Vancouver,Drugstores,Food & Beverage,False,M,1943.0,7.0,116.76,"$1,736,425,629,520 ",68.9,100.9,81.9,24.5,36.991981,56.130366,-106.346771
 2020,1.4,Lucia Maggi & family,90.0,Brazil,Rondonopolis,Agribusiness,Diversified,True,F,1932.0,7.0,167.4,"$1,839,758,040,766 ",51.3,115.4,75.7,65.1,212.559417,-14.235004,-51.92528
@@ -2149,10 +2149,10 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2133,1.3,Cai Mingtong,71.0,China,Quanzhou,Electronic components,Technology,True,M,1952.0,2.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2133,1.3,Anthony Casalena,40.0,United States,Monkton,Software,Technology,True,M,1982.0,4.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2133,1.3,Chang Jianming & family,58.0,China,Shanghai,Industrial equipment,Manufacturing,True,M,1965.0,2.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2133,1.3,Richard Chang,76.0,Taiwan,Taipei,"Real estate, electronics",Real Estate,True,M,1947.0,1.0,,,,,,,,,
+2133,1.3,Richard Chang,76.0,Taiwan,Taipei,"Real estate, electronics",Real Estate,True,M,1947.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2133,1.3,Chen Xuehua,62.0,China,Tongxiang,Minerals processing,Metals & Mining,True,M,1961.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2133,1.3,Chen Yin,50.0,China,Shanghai,Power tools,Manufacturing,True,M,1973.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2133,1.3,Chin Jong Hwa,64.0,Taiwan,Taoyuan,Auto parts,Automotive,True,M,1958.0,6.0,,,,,,,,,
+2133,1.3,Chin Jong Hwa,64.0,Taiwan,Taoyuan,Auto parts,Automotive,True,M,1958.0,6.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2133,1.3,R. Marcelo Claure,52.0,United States,Miami Beach,Cell phone distribution,Telecom,True,M,1970.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2133,1.3,Alberto Cortina,77.0,Spain,Madrid,Investments,Finance & Investments,True,M,1946.0,1.0,110.96,"$1,394,116,310,769 ",88.9,102.7,83.3,47.0,47.076781,40.463667,-3.74922
 2133,1.3,Eduardo Costantini,76.0,Argentina,Buenos Aires,Real estate,Real Estate,True,M,1946.0,9.0,232.75,"$449,663,446,954 ",90.0,109.7,76.5,106.3,44.938712,-38.416097,-63.616672
@@ -2254,7 +2254,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2133,1.3,Yan Jane & family,53.0,China,Beijing,Software,Technology,True,F,1969.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2133,1.3,Zeng Chaoyi,54.0,China,Changsha,Aluminum products,Manufacturing,True,M,1969.0,4.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2133,1.3,Peng Zhao,52.0,China,Beijing,Online recruitment,Service,True,M,1971.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2133,1.3,Zhao Tongtong,56.0,Hong Kong,Hong Kong,Hotels,Service,True,F,1967.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2133,1.3,Zhao Tongtong,56.0,Hong Kong,Hong Kong,Hotels,Service,True,F,1967.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2133,1.3,Kostyantin Zhevago,49.0,Ukraine,Kiev,Mining,Metals & Mining,True,M,1974.0,1.0,281.66,"$153,781,069,118 ",82.7,99.0,71.6,45.2,44.385155,48.379433,31.16558
 2133,1.3,Zong Yanmin,,China,Jinan,Semiconductor materials,Manufacturing,True,M,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2259,1.2,Sanjay Agarwal,52.0,India,Jaipur,Banking,Finance & Investments,True,M,1970.0,9.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
@@ -2300,11 +2300,11 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2259,1.2,Richard Hayne,75.0,United States,Philadelphia,Urban Outfitters,Fashion & Retail,True,M,1947.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2259,1.2,Michael Heine,73.0,Australia,Melbourne,Financial services,Finance & Investments,True,M,1949.0,11.0,119.8,"$1,392,680,589,329 ",113.1,100.3,82.7,47.4,25.766605,-25.274398,133.775136
 2259,1.2,Orion Hindawi,43.0,United States,Seattle,Software,Technology,True,M,1980.0,1.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-2259,1.2,Lawrence Ho,46.0,Hong Kong,Hong Kong,Casinos,Gambling & Casinos,False,M,1977.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2259,1.2,Lawrence Ho,46.0,Hong Kong,Hong Kong,Casinos,Gambling & Casinos,False,M,1977.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2259,1.2,Huang Guanlin,58.0,China,Ningbo,"Textiles, apparel",Fashion & Retail,True,M,1965.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2259,1.2,Sam Hupert,68.0,Australia,Melbourne,Technology,Technology,True,M,1954.0,12.0,119.8,"$1,392,680,589,329 ",113.1,100.3,82.7,47.4,25.766605,-25.274398,133.775136
 2259,1.2,Mohammed Ibrahim,76.0,United Kingdom,London,Communications,Telecom,True,M,1946.0,5.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
-2259,1.2,Shirley Kao,66.0,Taiwan,Tainan,Food & beverage retailing,Food & Beverage,False,F,1956.0,9.0,,,,,,,,,
+2259,1.2,Shirley Kao,66.0,Taiwan,Tainan,Food & beverage retailing,Food & Beverage,False,F,1956.0,9.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2259,1.2,David Kaplan,55.0,United States,Los Angeles,Finance,Finance & Investments,True,M,1967.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2259,1.2,Kim Kardashian,42.0,United States,Hidden Hills,"Shapewear, cosmetics, reality TV",Fashion & Retail,True,F,1980.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2259,1.2,Ke Guihua,57.0,China,Shanghai,Auto parts,Manufacturing,True,M,1965.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -2320,7 +2320,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2259,1.2,Li Ruiqiang,43.0,China,Beijing,Medical services,Healthcare,True,M,1979.0,11.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2259,1.2,Zhen Li & family,59.0,China,Hefei,Lithium batteries,Manufacturing,True,M,1964.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2259,1.2,Guangwei Liang,59.0,China,Shenzhen,Conglomerate,Manufacturing,True,M,1963.0,9.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2259,1.2,Liu Ming Hui,60.0,Hong Kong,Hong Kong,Natural gas distribution,Energy,True,M,1963.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2259,1.2,Liu Ming Hui,60.0,Hong Kong,Hong Kong,Natural gas distribution,Energy,True,M,1963.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2259,1.2,Frederic Luddy,68.0,United States,San Diego,Software,Technology,True,M,1954.0,11.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2259,1.2,"Cargill MacMillan, III.",63.0,United States,Boulder,Cargill,Food & Beverage,False,M,1959.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2259,1.2,John MacMillan,73.0,United States,Plymouth,Cargill,Food & Beverage,False,M,1949.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
@@ -2377,16 +2377,16 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2259,1.2,Ruben Vardanyan & family,54.0,Armenia,Erevan,Investment banking,Finance & Investments,True,M,1968.0,5.0,129.18,"$13,672,802,158 ",54.6,92.7,74.9,22.6,2.957731,40.069099,45.038189
 2259,1.2,Sandro Veronesi & family,63.0,Italy,Milan,Fashion,Fashion & Retail,True,M,1959.0,10.0,110.62,"$2,001,244,392,042 ",61.9,101.9,82.9,59.1,60.297396,41.87194,12.56738
 2259,1.2,Thongma Vijitpongpun,65.0,Thailand,Bangkok,Real estate,Real Estate,True,M,1957.0,7.0,113.27,"$543,649,976,166 ",49.3,99.8,76.9,29.5,69.625582,15.870032,100.992541
-2259,1.2,Thomas von Koch,57.0,Hong Kong,Hong Kong,Asset management,Finance & Investments,True,M,1966.0,3.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2259,1.2,Thomas von Koch,57.0,Hong Kong,Hong Kong,Asset management,Finance & Investments,True,M,1966.0,3.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2259,1.2,Wang Fuji,,China,Zhangzhou,Pharmaceuticals,Healthcare,True,M,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2259,1.2,Wang Shih-Chung,61.0,Taiwan,Taipei,Pneumatic equipments,Manufacturing,True,M,1962.0,1.0,,,,,,,,,
+2259,1.2,Wang Shih-Chung,61.0,Taiwan,Taipei,Pneumatic equipments,Manufacturing,True,M,1962.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2259,1.2,Wang Xiaoshen,54.0,China,Urumchi,Lithium,Manufacturing,True,M,1968.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2259,1.2,J. Wayne Weaver,87.0,United States,Jacksonville,Shoes,Diversified,True,M,1935.0,9.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2259,1.2,Drorit Wertheim,67.0,Israel,Bnei Atarot,Coca Cola Israel,Food & Beverage,False,F,1956.0,1.0,108.15,"$395,098,666,122 ",63.4,104.9,82.8,25.3,9.0533,31.046051,34.851612
 2259,1.2,Cameron Winklevoss,41.0,United States,New York,Cryptocurrency,Finance & Investments,True,M,1981.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2259,1.2,Tyler Winklevoss,41.0,United States,New York,Cryptocurrency,Finance & Investments,True,M,1981.0,8.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
-2259,1.2,Wu Chung-yi,67.0,Taiwan,Chang Hwa County,Manufacturing,Manufacturing,False,M,1955.0,7.0,,,,,,,,,
-2259,1.2,Eugene Wu,77.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1945.0,5.0,,,,,,,,,
+2259,1.2,Wu Chung-yi,67.0,Taiwan,Chang Hwa County,Manufacturing,Manufacturing,False,M,1955.0,7.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
+2259,1.2,Eugene Wu,77.0,Taiwan,Taipei,Finance,Finance & Investments,False,M,1945.0,5.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2259,1.2,Wu Yonghua,52.0,China,Xiamen,Apparel,Fashion & Retail,True,M,1971.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2259,1.2,Xia Xinde,58.0,China,Guangzhou,Batteries,Manufacturing,True,M,1964.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2259,1.2,Wenbo Xiang,60.0,China,Changsha,Manufacturing,Manufacturing,True,M,1962.0,6.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -2425,7 +2425,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2405,1.1,Chen Baohua,61.0,China,Linhai,Pharmaceutical,Healthcare,True,M,1962.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Gang Chen,55.0,China,Guangzhou,Solar energy,Energy,True,M,1968.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Liying Chen,47.0,China,Shanghai,Package delivery,Logistics,True,F,1975.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2405,1.1,Tony Chen,73.0,Taiwan,Taichung,Electronics,Technology,True,M,1949.0,7.0,,,,,,,,,
+2405,1.1,Tony Chen,73.0,Taiwan,Taichung,Electronics,Technology,True,M,1949.0,7.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2405,1.1,Chen Xueling,55.0,China,Shantou,Stationery,Manufacturing,True,F,1967.0,10.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Cheng Lili,58.0,China,Changzhou,Poultry breeding,Food & Beverage,True,M,1965.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Cho Jyh-jer,,,,Semiconductors,Technology,True,M,,,,,,,,,,,
@@ -2510,18 +2510,18 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2405,1.1,Tan Yu Yeh,52.0,Malaysia,Selangor,Retail,Fashion & Retail,True,M,1971.0,1.0,121.46,"$364,701,517,788 ",45.1,105.3,76.0,38.7,32.447385,4.210484,101.975766
 2405,1.1,Tang Aoqi & family,77.0,China,Changzhou,Auto parts,Automotive,True,M,1945.0,4.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Vonnarat Tangkaravakoon,51.0,Thailand,Bangkok,"Wire & cables, paints",Manufacturing,False,M,1971.0,9.0,113.27,"$543,649,976,166 ",49.3,99.8,76.9,29.5,69.625582,15.870032,100.992541
-2405,1.1,Tsao Ter-fung,76.0,Taiwan,Taipei,Food,Food & Beverage,True,M,1947.0,1.0,,,,,,,,,
+2405,1.1,Tsao Ter-fung,76.0,Taiwan,Taipei,Food,Food & Beverage,True,M,1947.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2405,1.1,Tung Ching Sai,58.0,China,Dongguan,Manufacturing,Manufacturing,True,M,1965.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Arkady Volozh,59.0,Israel,Tel Aviv,Search engine,Technology,True,M,1964.0,2.0,108.15,"$395,098,666,122 ",63.4,104.9,82.8,25.3,9.0533,31.046051,34.851612
 2405,1.1,Peter-Alexander Wacker,71.0,Germany,Starnberg,Chemicals,Manufacturing,False,M,1951.0,10.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 2405,1.1,Wan Long,82.0,China,Luohe,Food,Food & Beverage,True,M,1940.0,9.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Wang Han,35.0,China,Shanghai,Airline,Diversified,False,M,1987.0,8.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Lars Wingefors,46.0,Sweden,Karlstad,Video games,Media & Entertainment,True,M,1977.0,4.0,110.51,"$530,832,908,738 ",67.0,126.6,82.5,49.1,10.285453,60.128161,18.643501
-2405,1.1,Allan Wong,73.0,Hong Kong,Hong Kong,Electronics,Manufacturing,True,M,1950.0,4.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2405,1.1,Allan Wong,73.0,Hong Kong,Hong Kong,Electronics,Manufacturing,True,M,1950.0,4.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2405,1.1,Tiger Woods,47.0,United States,Jupiter Island,Golf,Sports,True,M,1975.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2405,1.1,Horst Wortmann,81.0,Germany,Detmold,Footwear,Fashion & Retail,True,M,1941.0,5.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 2405,1.1,Wu Kaiting,53.0,China,Xiamen,Electronics,Telecom,True,M,1969.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2405,1.1,Wu Li-gann,82.0,Taiwan,Kaohsiung,Electronic components,Manufacturing,True,M,1941.0,1.0,,,,,,,,,
+2405,1.1,Wu Li-gann,82.0,Taiwan,Kaohsiung,Electronic components,Manufacturing,True,M,1941.0,1.0,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2405,1.1,Wu Xiangdong,54.0,China,Beijing,Consumer,Food & Beverage,True,M,1969.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Xiu Laigui,68.0,China,Tonghua,Pharmaceuticals,Healthcare,True,M,1954.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Xu Jiangnan,61.0,China,Leping,Vitamins,Healthcare,True,M,1962.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
@@ -2537,7 +2537,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2405,1.1,Zhang Xuewu,48.0,China,Changsha,Snacks,Food & Beverage,True,M,1974.0,8.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Zhu Yiming,50.0,China,Beijing,Semiconductors,Technology,True,M,1972.0,7.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2405,1.1,Zhu Zhaojiang,49.0,China,Shenzhen,Smartphones,Manufacturing,True,M,1974.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2405,1.1,Zhuo Jun,57.0,Hong Kong,Hong Kong,Printed circuit boards,Manufacturing,False,F,1966.0,1.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2405,1.1,Zhuo Jun,57.0,Hong Kong,Hong Kong,Printed circuit boards,Manufacturing,False,F,1966.0,1.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2540,1.0,Manohar Lal Agarwal,68.0,India,Delhi,Snacks,Food & Beverage,False,M,1954.0,10.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 2540,1.0,Christian Angermayer,44.0,United Kingdom,London,Investments,Finance & Investments,True,M,1978.0,4.0,119.62,"$2,827,113,184,696 ",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 2540,1.0,Ryuji Arai,76.0,Japan,Tokyo,Retail,Fashion & Retail,True,M,1946.0,5.0,105.48,"$5,081,769,542,380 ",63.2,98.8,84.2,46.7,126.226568,36.204824,138.252924
@@ -2549,16 +2549,16 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 2540,1.0,Jimmy Buffett,76.0,United States,Palm Beach,"Entertainment, Margaritaville",Media & Entertainment,True,M,1946.0,12.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2540,1.0,Hideyuki Busujima,70.0,Japan,Tokyo,Pachinko machines,Gambling & Casinos,False,M,1952.0,9.0,105.48,"$5,081,769,542,380 ",63.2,98.8,84.2,46.7,126.226568,36.204824,138.252924
 2540,1.0,Edouard Carmignac,75.0,France,Paris,Asset management,Finance & Investments,True,M,1947.0,9.0,110.05,"$2,715,518,274,227 ",65.6,102.5,82.5,60.7,67.059887,46.227638,2.213749
-2540,1.0,Chang Kuo-Ming,,Taiwan,Taipei,Transportation,Logistics,False,M,,,,,,,,,,,
+2540,1.0,Chang Kuo-Ming,,Taiwan,Taipei,Transportation,Logistics,False,M,,,106.93,"$790,700,000,000",47.8,102.5,81.0,40.78,23.57,23.6978,120.9605
 2540,1.0,Chen Jiancheng,64.0,China,Shangyu,Manufacturing,Manufacturing,True,M,1959.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2540,1.0,Rui Chen,45.0,China,Shanghai,Online entertainment,Media & Entertainment,True,M,1978.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2540,1.0,Chen Shiliang,59.0,China,Tongxiang,Polyester,Manufacturing,True,M,1963.0,12.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 2540,1.0,Tianqiao Chen,49.0,United States,Atherton,Online games,Technology,True,M,1973.0,5.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2540,1.0,Yuantai Chen,55.0,China,Ningde,Batteries,Energy,True,M,1968.0,3.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
-2540,1.0,Cheng Antares,65.0,Hong Kong,Hong Kong,Liquor,Food & Beverage,True,M,1957.0,11.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2540,1.0,Cheng Antares,65.0,Hong Kong,Hong Kong,Liquor,Food & Beverage,True,M,1957.0,11.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2540,1.0,Kochouseph Chittilappilly,72.0,India,Kochi,Electrical appliances,Manufacturing,True,M,1950.0,12.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 2540,1.0,John Christodoulou,57.0,Monaco,Monaco,Real estate,Real Estate,True,M,1965.0,5.0,,"$7,184,844,193 ",,,,,0.038964,43.7384176,7.4246158
-2540,1.0,Pollyanna Chu,64.0,Hong Kong,Hong Kong,"Financial services, property",Finance & Investments,True,F,1958.0,8.0,125.08,"$19,910,000,000,000",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
+2540,1.0,Pollyanna Chu,64.0,Hong Kong,Hong Kong,"Financial services, property",Finance & Investments,True,F,1958.0,8.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 2540,1.0,Turgay Ciner,67.0,Turkey,Istanbul,Diversified,Diversified,True,M,1956.0,3.0,234.44,"$754,411,708,203 ",23.9,93.2,77.4,42.3,83.429615,38.963745,35.243322
 2540,1.0,Benoit Dageville,56.0,United States,San Carlos,Software,Technology,True,M,1966.0,6.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 2540,1.0,Mark Dixon,63.0,Monaco,Monaco,Office real estate,Real Estate,True,M,1959.0,11.0,,"$7,184,844,193 ",,,,,0.038964,43.7384176,7.4246158
