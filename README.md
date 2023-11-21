@@ -1,4 +1,4 @@
-# TUBES 2
+# TUBES 2 - Kelompok 14
 ## Analisis Data
 ### Anggota
 Benedictus Alfin Geraldine Baya - 16523175 <br>
