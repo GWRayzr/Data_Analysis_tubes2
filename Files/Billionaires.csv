@@ -107,7 +107,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 106,16.0,Michael Platt,55.0,Switzerland,Geneva,Hedge funds,Finance & Investments,True,M,1968.0,3.0,99.55,"$703,082,435,360 ",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 107,15.9,Pang Kang,67.0,China,Foshan,Soy sauce,Food & Beverage,True,M,1956.0,1.0,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 108,15.8,Karl Albrecht Jr. & family,,Germany,,Supermarkets,Fashion & Retail,False,M,,,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
-108,15.8,Beate Heister,,,,Supermarkets,Fashion & Retail,False,F,,,,"$3,845,630,030,824",,,,,,,
+108,15.8,Beate Heister,,Germany,,Supermarkets,Fashion & Retail,False,F,,,112.85,"$3,845,630,030,824",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 108,15.8,Jorge Paulo Lemann & family,83.0,Switzerland,Zurich,Beer,Food & Beverage,True,M,1939.0,8.0,99.55,"$3,845,630,030,824",59.6,105.2,83.6,28.8,8.574832,46.818188,8.227512
 108,15.8,Peter Woo,76.0,Hong Kong,Hong Kong,Real estate,Real Estate,False,M,1946.0,9.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 112,15.6,Dilip Shanghvi,67.0,India,Mumbai,Pharmaceuticals,Healthcare,True,M,1955.0,10.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
@@ -421,7 +421,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 418,6.1,Michael Herz,79.0,Germany,Hamburg,Coffee,Fashion & Retail,False,M,1943.0,9.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 418,6.1,Wolfgang Herz,72.0,Germany,Hamburg,Coffee,Fashion & Retail,False,M,1951.0,1.0,112.85,"$3,845,630,030,824 ",70.2,104.0,80.9,48.8,83.132799,51.165691,10.451526
 418,6.1,Michael Kadoorie,81.0,Hong Kong,Hong Kong,"Hotels, energy",Energy,False,M,1941.0,7.0,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
-418,6.1,Sunil Mittal,65.0,,,Telecom,Telecom,True,M,1957.0,10.0,,,,,,,,,
+418,6.1,Sunil Mittal,65.0,India,,Telecom,Telecom,True,M,1957.0,10.0,180.44,"$2,611,000,000,000",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
 418,6.1,Zhou Qunfei,53.0,Hong Kong,Hong Kong,Smartphone screens,Technology,True,F,,,106.7,"$359,840,000,000",104.8,95.5,85.0,17.78,7.346,22.3193,114.1694
 425,6.0,Alexander Abramov,64.0,Russia,Moscow,"Steel, mining",Metals & Mining,True,M,1959.0,2.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
 425,6.0,Rene Benko,46.0,Austria,,"Real estate, retail",Real Estate,True,M,1977.0,3.0,118.06,"$446,314,739,528 ",85.1,103.1,81.6,51.4,8.877067,47.516231,14.550072
@@ -645,8 +645,8 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 636,4.3,Andrei Kozitsyn,62.0,Russia,Verkhniaya Pyshma,Metals,Metals & Mining,True,M,1960.0,6.0,180.75,"$1,699,876,578,871 ",81.9,102.6,72.7,46.2,144.373535,61.52401,105.318756
 636,4.3,Timur Kulibaev,56.0,Kazakhstan,Almaty,Banking,Finance & Investments,True,M,1966.0,9.0,182.75,"$180,161,741,180 ",61.7,104.4,73.2,28.4,18.51393,48.019573,66.923684
 636,4.3,Dinara Kulibaeva,55.0,Kazakhstan,Almaty,Banking,Finance & Investments,False,F,1967.0,8.0,182.75,"$180,161,741,180 ",61.7,104.4,73.2,28.4,18.51393,48.019573,66.923684
-636,4.3,Ian Livingstone,60.0,,,Real estate,Real Estate,True,M,1962.0,5.0,,,,,,,,,
-636,4.3,Richard Livingstone,58.0,,,Real estate,Real Estate,True,M,1964.0,11.0,,,,,,,,,
+636,4.3,Ian Livingstone,60.0,United Kingdom,London,Real estate,Real Estate,True,M,1962.0,5.0,119.62,"$2,827,113,184,696",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
+636,4.3,Richard Livingstone,58.0,United Kingdom,London,Real estate,Real Estate,True,M,1964.0,11.0,119.62,"$2,827,113,184,696",60.0,101.2,81.3,30.6,66.834405,55.378051,-3.435973
 636,4.3,Gwendolyn Sontheim Meyer,61.0,United States,Rancho Santa Fe,Cargill,Food & Beverage,False,F,1961.0,10.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 636,4.3,Jay Paul,75.0,United States,San Francisco,Real estate,Real Estate,True,M,1947.0,7.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 636,4.3,Pham Nhat Vuong,54.0,Vietnam,Hanoi,Diversified,Diversified,True,M,1968.0,8.0,163.52,"$261,921,244,843 ",28.5,110.6,75.3,37.6,96.462106,14.058324,108.277199
@@ -903,7 +903,7 @@ rank,finalWorth,personName,age,country,city,source,industries,selfMade,gender,bi
 878,3.3,Todd Wanek,59.0,United States,St. Petersburg,Furniture,Manufacturing,False,M,1964.0,3.0,117.24,"$21,427,700,000,000 ",88.2,101.8,78.5,36.6,328.239523,37.09024,-95.712891
 878,3.3,Xue Hua,53.0,China,Guangzhou,Agribusiness,Manufacturing,True,M,,,125.08,"$19,910,000,000,000 ",50.6,100.2,77.0,59.2,1397.715,35.86166,104.195397
 878,3.3,Takao Yasuda,73.0,Singapore,Singapore,Retail,Fashion & Retail,True,M,1949.0,5.0,114.41,"$372,062,527,489 ",84.8,100.6,83.1,21.0,5.703569,1.352083,103.819836
-905,3.2,Karen Virginia Beckmann Legoretta,53.0,,,Tequila,Food & Beverage,False,F,,,,,,,,,,,
+905,3.2,Karen Virginia Beckmann Legoretta,53.0,Mexico,,Tequila,Food & Beverage,False,F,,,141.54,"$1,258,286,717,125",40.2,105.8,75.0,55.1,126.014024,23.634501,-102.552784
 905,3.2,Giuliana Benetton,85.0,Italy,Treviso,"Fashion retail, investments",Fashion & Retail,True,F,1937.0,7.0,110.62,"$2,001,244,392,042 ",61.9,101.9,82.9,59.1,60.297396,41.87194,12.56738
 905,3.2,Luciano Benetton,87.0,Italy,Ponzano Veneto,"Fashion retail, investments",Fashion & Retail,True,M,1935.0,5.0,110.62,"$2,001,244,392,042 ",61.9,101.9,82.9,59.1,60.297396,41.87194,12.56738
 905,3.2,Arun Bharat Ram,82.0,India,Delhi,Chemicals,Manufacturing,False,M,1940.0,11.0,180.44,"$2,611,000,000,000 ",28.1,113.0,69.4,49.7,1366.417754,20.593684,78.96288
